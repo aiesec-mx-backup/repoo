@@ -1,0 +1,4 @@
+173.252.101.115 - - [04/Mar/2015:07:55:15 -0600] "GET /images/developing_you.png HTTP/1.1" 404 11812 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+173.252.101.119 - - [04/Mar/2015:07:55:16 -0600] "GET /images/developing_you.png HTTP/1.1" 404 11812 "-" "facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)"
+173.245.115.77 - - [04/Mar/2015:14:55:13 -0600] "GET /favicon.ico HTTP/1.1" 200 - "-" "-"
+173.245.115.78 - - [04/Mar/2015:14:55:14 -0600] "GET /favicon.ico HTTP/1.1" 200 - "-" "-"

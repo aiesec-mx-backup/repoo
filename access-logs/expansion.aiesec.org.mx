@@ -1,0 +1,5 @@
+180.76.6.46 - - [04/Mar/2015:13:54:13 -0600] "GET /robots.txt HTTP/1.1" 404 11812 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2"
+66.249.69.175 - - [04/Mar/2015:15:51:22 -0600] "GET / HTTP/1.1" 200 6357 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.69.207 - - [04/Mar/2015:16:33:22 -0600] "GET / HTTP/1.1" 200 6357 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.69.207 - - [04/Mar/2015:18:49:02 -0600] "GET /robots.txt HTTP/1.1" 404 11812 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.69.191 - - [04/Mar/2015:18:49:02 -0600] "GET / HTTP/1.1" 200 6357 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
