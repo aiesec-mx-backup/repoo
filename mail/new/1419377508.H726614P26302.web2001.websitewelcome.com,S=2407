@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: wwwaiese@web2001.websitewelcome.com
+Delivery-date: Tue, 23 Dec 2014 17:31:48 -0600
+Received: from mailnull by web2001.websitewelcome.com with local (Exim 4.82)
+	id 1Y3Yvc-0006q3-L2
+	for wwwaiese@web2001.websitewelcome.com; Tue, 23 Dec 2014 17:31:48 -0600
+X-Failed-Recipients: contacto@aiesec.org.mx
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@web2001.websitewelcome.com>
+To: wwwaiese@web2001.websitewelcome.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Y3Yvc-0006q3-L2@web2001.websitewelcome.com>
+Date: Tue, 23 Dec 2014 17:31:48 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contacto@aiesec.org.mx
+    SMTP error from remote mail server after end of data:
+    host ASPMX.L.GOOGLE.COM [74.125.142.26]: 550-5.7.1 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.1 DMARC policy. Please contact administrator of yahoo.com domain if
+    550-5.7.1 this was a legitimate mail. Please visit
+    550-5.7.1 http://support.google.com/mail/answer/2451690 to learn about DMARC
+    550 5.7.1 initiative. dw19si16329314icb.104 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <wwwaiese@web2001.websitewelcome.com>
+Received: from wwwaiese by web2001.websitewelcome.com with local (Exim 4.82)
+	(envelope-from <wwwaiese@web2001.websitewelcome.com>)
+	id 1Y3Yva-0006oK-V9
+	for contacto@aiesec.org.mx; Tue, 23 Dec 2014 17:31:46 -0600
+To: contacto@aiesec.org.mx
+Subject: You've been contacted by Yazmin.
+X-PHP-Script: www.aiesec.org.mx/php/contact.php for 189.253.41.102
+From: yazshark@yahoo.com
+Reply-To: yazshark@yahoo.com
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E1Y3Yva-0006oK-V9@web2001.websitewelcome.com>
+Date: Tue, 23 Dec 2014 17:31:46 -0600
+
+Te ha contactado_ Yazmin, su mensaje:
+
+"Hi, i would like to study on a another place, I live here on Mexico
+DF and I study on the IPN, I'd like to get information of exchanges, I
+heard good things about this organization. If you can e-mail
+information of anything, I  would appreciate it very much, thanks "
+
+Puedes contactar a Yazmin por mail a yazshark@yahoo.com

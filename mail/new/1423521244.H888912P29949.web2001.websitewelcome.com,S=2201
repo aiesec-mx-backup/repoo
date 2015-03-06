@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: wwwaiese@web2001.websitewelcome.com
+Delivery-date: Mon, 09 Feb 2015 16:34:04 -0600
+Received: from mailnull by web2001.websitewelcome.com with local (Exim 4.82)
+	id 1YKwu4-0007mu-Or
+	for wwwaiese@web2001.websitewelcome.com; Mon, 09 Feb 2015 16:34:04 -0600
+X-Failed-Recipients: contacto@aiesec.org.mx
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@web2001.websitewelcome.com>
+To: wwwaiese@web2001.websitewelcome.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YKwu4-0007mu-Or@web2001.websitewelcome.com>
+Date: Mon, 09 Feb 2015 16:34:04 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contacto@aiesec.org.mx
+    SMTP error from remote mail server after end of data:
+    host ASPMX.L.GOOGLE.COM [64.233.169.26]: 550-5.7.1 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.1 DMARC policy. Please contact administrator of yahoo.com domain if
+    550-5.7.1 this was a legitimate mail. Please visit
+    550-5.7.1 http://support.google.com/mail/answer/2451690 to learn about DMARC
+    550 5.7.1 initiative. y4si6626906obg.53 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <wwwaiese@web2001.websitewelcome.com>
+Received: from wwwaiese by web2001.websitewelcome.com with local (Exim 4.82)
+	(envelope-from <wwwaiese@web2001.websitewelcome.com>)
+	id 1YKwu2-0007lr-VB
+	for contacto@aiesec.org.mx; Mon, 09 Feb 2015 16:34:02 -0600
+To: contacto@aiesec.org.mx
+Subject: You've been contacted by Mauricio.
+X-PHP-Script: www.aiesec.org.mx/php/contact.php for 189.245.114.219
+From: maumonroy@yahoo.com
+Reply-To: maumonroy@yahoo.com
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E1YKwu2-0007lr-VB@web2001.websitewelcome.com>
+Date: Mon, 09 Feb 2015 16:34:02 -0600
+
+Te ha contactado_ Mauricio, su mensaje:
+
+"Hola
+Me encantaria saber como unirme a AIESEC
+
+Saludos"
+
+Puedes contactar a Mauricio por mail a maumonroy@yahoo.com

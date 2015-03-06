@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: wwwaiese@web2001.websitewelcome.com
+Delivery-date: Fri, 27 Feb 2015 20:10:47 -0600
+Received: from mailnull by web2001.websitewelcome.com with local (Exim 4.82)
+	id 1YRWrf-0001eD-Nk
+	for wwwaiese@web2001.websitewelcome.com; Fri, 27 Feb 2015 20:10:47 -0600
+X-Failed-Recipients: sgarcias.ipn@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@web2001.websitewelcome.com>
+To: wwwaiese@web2001.websitewelcome.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YRWrf-0001eD-Nk@web2001.websitewelcome.com>
+Date: Fri, 27 Feb 2015 20:10:47 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sgarcias.ipn@gmail.com
+    SMTP error from remote mail server after end of data:
+    host gmail-smtp-in.l.google.com [64.233.168.26]:
+    550-5.7.1 [50.87.152.101      12] Our system has detected that this message is
+    550-5.7.1 likely unsolicited mail. To reduce the amount of spam sent to Gmail,
+    550-5.7.1 this message has been blocked. Please visit
+    550-5.7.1 http://support.google.com/mail/bin/answer.py?hl=en&answer=188131 for
+    550 5.7.1 more information. w194si228789oie.78 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <wwwaiese@web2001.websitewelcome.com>
+Received: from wwwaiese by web2001.websitewelcome.com with local (Exim 4.82)
+	(envelope-from <wwwaiese@web2001.websitewelcome.com>)
+	id 1YRWrd-0001dT-4D
+	for sgarcias.ipn@gmail.com; Fri, 27 Feb 2015 20:10:45 -0600
+To: sgarcias.ipn@gmail.com
+Subject: You've been contacted by Dujoran.
+X-PHP-Script: www.aiesec.org.mx/php/contact.php for 87.117.9.72
+From: 07oc8qkx52d78ahf@rambler.ru
+Reply-To: 07oc8qkx52d78ahf@rambler.ru
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E1YRWrd-0001dT-4D@web2001.websitewelcome.com>
+Date: Fri, 27 Feb 2015 20:10:45 -0600
+
+Te ha contactado_ Dujoran, su mensaje:
+
+"Электросветотехника Ростову-на-Дону dujora.lixter.com dujora.890m.com
+dujora.orisale.ru dujora.tioo.ru dujora.net76.net bulhala.net84.net
+bulhala.orgfree.com +79185259898"
+
+Puedes contactar a Dujoran por mail a 07oc8qkx52d78ahf@rambler.ru

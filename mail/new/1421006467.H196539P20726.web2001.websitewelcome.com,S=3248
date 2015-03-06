@@ -1,0 +1,86 @@
+Return-path: <>
+Envelope-to: wwwaiese@web2001.websitewelcome.com
+Delivery-date: Sun, 11 Jan 2015 14:01:07 -0600
+Received: from mailnull by web2001.websitewelcome.com with local (Exim 4.82)
+	id 1YAOh9-0005OC-2E
+	for wwwaiese@web2001.websitewelcome.com; Sun, 11 Jan 2015 14:01:07 -0600
+X-Failed-Recipients: karenroag.89@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@web2001.websitewelcome.com>
+To: wwwaiese@web2001.websitewelcome.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YAOh9-0005OC-2E@web2001.websitewelcome.com>
+Date: Sun, 11 Jan 2015 14:01:07 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  karenroag.89@hotmail.com
+    SMTP error from remote mail server after RCPT TO:<karenroag.89@hotmail.com>:
+    host mx3.hotmail.com [65.54.188.72]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <wwwaiese@web2001.websitewelcome.com>
+Received: from wwwaiese by web2001.websitewelcome.com with local (Exim 4.82)
+	(envelope-from <wwwaiese@web2001.websitewelcome.com>)
+	id 1YAOh7-0005Ni-Rl
+	for karenroag.89@hotmail.com; Sun, 11 Jan 2015 14:01:05 -0600
+To: karenroag.89@hotmail.com
+Subject: Bienvenid@ al Programa Global Citizen
+X-PHP-Script: www.aiesec.org.mx/podiohooks/email.php for 54.72.253.67
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Contacto AIESEC <contacto@aiesec.org.mx>
+Message-Id: <E1YAOh7-0005Ni-Rl@web2001.websitewelcome.com>
+Date: Sun, 11 Jan 2015 14:01:05 -0600
+
+<html>
+<body>
+<div style="text-align:center">
+	<img
+src="https://dl.dropboxusercontent.com/u/51931317/autoresponse_header.png">
+	<br>
+</div>
+
+<div>
+	<p style="font-family: 'trebuchet ms',sans-serif">
+	<i><strong>Estimado aplicante a GLOBAL
+CITIZEN:&nbsp;</strong></i></div>
+	</p>
+	<p style="font-family: verdana,helvetica,sans-serif">
+		Si est&aacute;s recibiendo este correo es porque
+		<strong style="font-family:'trebuchet ms',sans-serif">TU REGISTRO
+para el programa <i>Global
+		Citizen</i>&nbsp;ha sido exitoso.&nbsp;</strong>
+	</p>
+	<p style="font-family: verdana, sans-serif">
+		Esto significa que est&aacute;s listo para continuar el proceso. El
+siguiente paso ser&aacute; agendar
+		la fecha de tu <strong>entrevista</strong>.
+	</p>
+	<p style="font-family: verdana, sans-serif">
+		Durante el proceso es necesario que utilices el mismo correo con el
+cual iniciaste el
+		registro, al igual que tu nombre completo para poder programar tu
+fecha de entrevista
+		correctamente.
+		<br>
+		A continuaci&oacute;n, una persona del &Aacute;rea de Intercambios
+Salientes Sociales del Comit&eacute;
+		<strong>Querétaro		</strong> se pondr&aacute; en contacto contigo
+en las pr&oacute;ximas 48 horas.
+	</p>
+	<p style="font-family: verdana, sans-serif">
+		En caso de tener alg&uacute;n problema con tu entrevista, no dudes
+en contactarnos para acordar horarios y/o fechas.
+	</p>
+	<p style="font-family: arial, sans-serif;text-align: center">
+		<strong>&iexcl;Bienvenid@ al proceso!</strong>
+	</p>
+</div>
+</body>
+</html>
