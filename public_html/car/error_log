@@ -1,0 +1,48 @@
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/wwwaiese/public_html/car/model/consulta.php on line 13
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/car/model/consulta.php on line 14
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 26
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 26
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 35
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 35
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 86
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 86
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 86
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 86
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 142
+[26-Dec-2014 21:21:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 142
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/wwwaiese/public_html/car/model/consulta.php on line 13
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/car/model/consulta.php on line 14
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 26
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 26
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 35
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 35
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 86
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 86
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 86
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 86
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 107
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 126
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/car/submit.php on line 142
+[29-Dec-2014 17:20:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/car/submit.php on line 142

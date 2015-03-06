@@ -1,0 +1,404 @@
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 02:20:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 16:35:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 18:57:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 21:47:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:30:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:23 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:38:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Dec-2014 23:51:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 01:11:31 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 02:04:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 15:44:55 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 15:46:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[18-Dec-2014 18:39:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[19-Dec-2014 00:33:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'wwwaiese'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[19-Dec-2014 00:33:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[16-Feb-2015 19:27:33 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 121
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[16-Feb-2015 19:27:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'aiesecipn.db.12058720.hostedresource.com' (2) in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 13
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwaiese/public_html/xHTML/model/consulta.php on line 14
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 21
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 30
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 81
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 102
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwaiese/public_html/xHTML/submit.php on line 137
+[17-Feb-2015 21:14:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwaiese/public_html/xHTML/submit.php on line 137

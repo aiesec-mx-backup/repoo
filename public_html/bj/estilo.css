@@ -1,0 +1,63 @@
+<style type="text/css">
+
+.upload{
+
+background:#e7e7e7;
+
+box-shadow:0px 0px 10px black;
+
+width:500px;
+
+height:200px;
+
+margin-right:auto;
+
+margin-left:auto;
+
+border-radius:20px;
+
+
+
+}
+
+form{
+
+        margin: 126px auto 0;
+
+        width: 225px;
+
+    }
+
+    label{
+
+        display: block;
+
+    }
+
+    input[type="file"]{
+
+        display: block;
+
+        margin: 8px 0;
+
+    }
+
+    div.resultado{
+
+        margin: 25px auto 0;
+
+        width: 225px;
+
+    }
+
+    div.resultado img{
+
+        border: 2px solid #EEEEEE;
+
+        height: auto;
+
+        width: 225px;
+
+    }
+
+</style>

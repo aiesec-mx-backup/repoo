@@ -1,0 +1,2 @@
+[27-Dec-2014 09:51:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'dbAiesecAcademy.db.12058720.hostedresource.com' (25) in /home/wwwaiese/public_html/academy/js/connection.php on line 3
+[27-Dec-2014 09:51:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wwwaiese/public_html/academy/busqueda.php on line 16

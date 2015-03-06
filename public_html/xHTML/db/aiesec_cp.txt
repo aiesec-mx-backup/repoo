@@ -1,0 +1,78 @@
+===Base de datos aiesec_cp
+
+== Estructura de tabla para la tabla foda
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**id**//|int(4)|No|
+|email|varchar(40)|No|
+|fortalezas|varchar(250)|No|
+|debilidades|varchar(250)|No|
+|oportunidades|varchar(250)|No|
+|amenazas|varchar(250)|No|
+== Volcado de datos para la tabla foda
+
+|1|cesar.seguracruz@aiesec.net|@Fortaleza Amarilla@Fuerza del Futuro|@Debilidad Negra@Debilidad Naranja@Debilidad PÃºrpura|@Oportunidades Doradas@Oportunidad Dorada|@Amenaza Sin Color@Amenaza Guinda@Amenaza Ruby
+== Estructura de tabla para la tabla master_user
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|email|varchar(40)|No|
+|password|varchar(20)|No|
+|//**id**//|int(2)|No|
+== Volcado de datos para la tabla master_user
+
+|cesar.seguracruz@aiesec.net|arigato1|1
+|develop.ipn@aiesec.org.mx|koperus17|2
+== Estructura de tabla para la tabla self_awareness
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**id**//|int(4)|No|
+|email|varchar(40)|Sí|NULL
+|suenos|varchar(250)|Sí|NULL
+|intereses|varchar(250)|Sí|NULL
+|actividades|varchar(250)|Sí|NULL
+|fecha|timestamp|No|CURRENT_TIMESTAMP
+== Volcado de datos para la tabla self_awareness
+
+|1|cesar.seguracruz@aiesec.net|SueÃ±os Morados|Intereses Azules|Actividades Rojas|2014-11-17 08:50:15
+== Estructura de tabla para la tabla timeline
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|time|timestamp|Sí|CURRENT_TIMESTAMP
+|email|varchar(40)|Sí|NULL
+|tipo|int(1)|Sí|NULL
+|meta|varchar(250)|Sí|NULL
+|3m|varchar(250)|No|
+|6m|varchar(250)|No|
+|12m|varchar(250)|No|
+|24m|varchar(250)|No|
+|60m|varchar(250)|No|
+|120m|varchar(250)|No|
+|//**id**//|int(4)|No|
+== Volcado de datos para la tabla timeline
+
+|2014-11-17 08:50:15|cesar.seguracruz@aiesec.net|0| Ser VP |  | Hacer un ttt |  |  |  |  |1
+|2014-11-17 08:50:15|cesar.seguracruz@aiesec.net|1| MEta 21 |  |  |  |  |  |  |2
+|2014-11-17 08:50:15|cesar.seguracruz@aiesec.net|1| Meta 22 |  |  |  |  |  |  |3
+|2014-11-17 08:50:15|cesar.seguracruz@aiesec.net|1|  |  |  |  |  |  | 120m |4
+|2014-11-17 08:50:15|cesar.seguracruz@aiesec.net|2| Meta | 3m | 6m | 12m | 24m | 60m | 120m |5
+== Estructura de tabla para la tabla usuario
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**id**//|int(11)|No|
+|nombre|varchar(40)|Sí|NULL
+|edad|int(3)|Sí|NULL
+|foto|blob|No|
+|email|varchar(40)|Sí|NULL
+== Volcado de datos para la tabla usuario
+
+|1|Miguel Segura|22|dragon_PNG981.png|cesar.seguracruz@aiesec.net

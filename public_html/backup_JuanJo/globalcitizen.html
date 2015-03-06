@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AIESEC Mexico | Global Citizen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <!-- Bootstrap -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,300italic' rel='stylesheet' type='text/css'>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <!--<link href="css/font-awesome.css" rel="stylesheet">-->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="css/colorbox.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    .line{
+    	float:left;
+    	display:inline;
+    	width:10%;
+    	font-size: .6em;
+    	line-height: 25px;
+    }
+    .blist{
+    	background:transparent;
+    	color:#E6E6E6;
+    }
+    .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+    	background: transparent;
+    }
+     
+    #sidemenu{
+      position:fixed;
+      right:0px;
+      top:20%;
+      z-index:10000;
+      width:10%;
+    }
+    #benefits, #testimonials, #footer{
+      background: #134F6B;
+    }
+    section.color .icon {
+      box-shadow: #134F6B;
+      background-color: #134F6B;
+    }
+    li{
+      text-align: left;
+    }
+     #mainLogo{
+      width:250px;
+      
+    }
+     #productLogo{
+      /*position: absolute;
+      z-index: 10000;
+      bottom: 100px;
+      left: 3%;
+      width: 30%;
+      min-width: 250px;*/
+      width:20% !important;
+      max-width: 400px !important;
+      width: 20% !important;
+      left: 39% !important;
+      top: 100px !important;
+      height: auto !important;
+    }
+    #shock{
+      color: white;
+    }
+    .shock{
+      width: 10%;
+      color: #fff;
+    }
+    a{
+      color: white;
+    }
+     #regButton{
+      position:absolute;
+      z-index:10;
+      bottom:20%;
+      left:44%;
+      background: #E6E6E6;
+      color:black;
+      font-size: 1em;
+      max-width: 30%;
+    }
+    .modal-header {
+      color: #fff;
+    }
+    
+    .modal-body address a {
+      color: inherit;
+      text-decoration: underline;
+    }
+    .blue {                color:#012087 !important;
+                font-size: 1.2em;
+}
+    
+     #regButton2{
+      background: #E6E6E6;
+      color:black;
+      font-size: 0.8em;
+    }
+    #carousel{width: 500px;height: 500px; text-align: center;}
+     @media (min-width:764px){
+        #regButton{
+         font-size: 1.4em;
+        }
+      }
+    </style>
+  </head>
+  <body>
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <i class="icon-refresh icon-spin"></i>
+  </div>
+
+
+	<div class="container">
+
+		<header class="row">
+
+			<!-- Navigation Bar -->
+			<nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!--<a class="navbar-brand" href="#">AIESEC</a>-->
+          <a href="index.html"> <img id="mainLogo" src="images/logoAIESEC.png"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+           <li><a href="acercade.html">Acerca de AIESEC</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Estudiantes y Egresados <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="globalcitizen.html">Global Citizen</a></li>
+            <li><a href="globaltalent.html">Global Talent</a></li>
+            <li><a href="developingyou.html">Developing You</a></li>
+            <!--<li class="divider"></li>-->
+            <li><a href="hostfamily.html">Host FamilY</a></li>
+            <li><a href="languages.html">Languages</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organizaciones y Empresas <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <!--<li><span>&nbsp;Organizaciones:</span></li>
+            <li><a href="ciudadanoglobal.html">&nbsp;&nbsp;Ciudadano Global</a></li>
+            <li class="divider"></li>
+            <li><span>&nbsp;Empresas</span></li>
+            <li><a href="talentoglobal.html">&nbsp;&nbsp;Talento Global</a></li>
+            <li><a class="lc" href="soon.html">&nbsp;&nbsp;Youth to Business</a></li>
+            -->
+            <li><a href="posicionamiento.html"><span>&nbsp;Posiciona tu empresa</span></a></li>
+            <li><a class="btn"  data-toggle="modal" data-target="#opc" align="center"><span>&nbsp;Adquiere talento internacional</span></a></li>
+          </ul>
+        </li>
+         <li><a href="alumni.html" class="scroll">Alumni</a></li>
+         <li><a class="lc" href="soon.html">Blog</a></li>
+          <li><a href="#contactt"  data-toggle="modal"  align="center">Contacto</a></li>
+            
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </nav>
+			<!-- End of Navigation Bar -->
+
+
+
+		</header>
+		<div class="btn-group-vertical" id="sidemenu">
+			<button class="blist btn btn-default">
+				Paga tu forma<br> de intercambio<br>con PayPal™<br>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
+					target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick"> <input
+						type="hidden" name="hosted_button_id" value="BADASKHBWWJFC">
+					<input type="image"
+						src="https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif"
+						border="0" name="submit"
+						alt="PayPal - The safer, easier way to pay online!"> <img
+						alt="" border="0"
+						src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+						width="1" height="1">
+				</form>
+			</button>
+			<button class="blist btn btn-default" id="register">
+				<b>Inscríbete Aquí</b>
+			</button>
+			<a target="_blank" class="blist btn btn-default"
+				href="http://www.ef.com.mx/epis/lp/aiesecmx/"><b>Haz tu
+					examen <br>de inglés en linea
+			</b></a>
+			<button class="blist btn btn-default">
+				<b>Testimoniales</b>
+			</button>
+			<a target="_blank"
+				href="http://www.visasexpress.com.mx/index.php?option=com_zoo&view=frontpage&Itemid=171"
+				class="blist btn btn-default"><b>Visas</b></a> <a target="_blank"
+				class="blist btn btn-default"
+				href="http://www.assist-card.com/landing/aiesec.aspx"><b>Adquiere
+					tu seguro</b></a> <a class="blist btn btn-default" href="hostfamily.html"><b>¿Quieres
+					hospedar<br>a algún extranjero?
+			</b></a> <a href="index.html#comites" class="blist btn btn-default"><b>Conoce
+					nuestras<br>Oficinas Locales
+			</b></a>
+			<button class="blist btn btn-default" id="share">
+				<b>Comparte <br>tu experiencia
+				</b>
+			</button>
+			<a href="index.html" class="blist btn btn-default"><b>Más
+					sobre<br> AIESEC
+			</b></a>
+		</div>
+
+		<!-- Slider -->
+		<a class="scroll scroll-down-arrow" href="#services"><i
+			class="icon-arrow-down"></i></a>
+		<section id="slider" class="row">
+			<!-- <img src="images/gcWhite.png" id="productLogo" alt="Global Citizen Logo"> -->
+			<div id="wanchai-carousel" class="carousel slide">
+				<!-- Indicators -->
+
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner">
+					<div class="item active">
+						<img src="images/gc1.jpg" alt="...">
+						<div class="carousel-caption">
+							<img src="images/gcWhite.png" id="productLogo"
+								alt="Global Citizen Logo">
+							<p>
+								<br>Global Citizen es una experiencia de vida y
+								trabajo intercultural que ofrece la oportunidad de desarrollar
+								habilidades y competencias personales. Así como crear un impacto
+								positivo en la sociedad.
+							</p>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+			<!-- End of #wanchai-carousel -->
+			<a class="btn" id="regButton">Regístrate Aquí</a>
+		</section>
+		<!-- End of Slider -->
+
+
+		<!-- Services -->
+		<section id="benefits" class="row color" data-scroll-factor="0.7">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="icon">
+					<i class="icon-ok"></i>
+				</div>
+				<h1>Beneficios</h1>
+				<div class="section-content">
+
+					<div class="row">
+						<div class="row">
+
+							<div class="col-md-4">
+								<i class="icon-fire icon-4x"></i><br>
+								<h3>Entendimiento global de las problemáticas sociales</h3>
+							</div>
+							<div class="col-md-4">
+								<i class="icon-group icon-4x"></i><br>
+								<h3>Intercambio Cultural al convivir con personas de otras
+									nacionalidades</h3>
+							</div>
+							<div class="col-md-4">
+								<i class="icon-link icon-4x"></i><br>
+								<h3>Acceso a la red global de AIESEC</h3>
+							</div>
+
+						</div>
+
+						<div class="row">
+
+							<div class="col-md-4 service">
+								<i class="icon-ok icon-4x"></i>
+								<h3>Desarrollo de competencias y habilidades</h3>
+							</div>
+							<div class="col-md-4 service">
+								<i class="icon-building icon-4x"></i>
+								<h3>Impacto positivo en la comunidad</h3>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<!-- End of .col-md-10 -->
+		</section>
+		<!-- End of About Us -->
+
+		<section class="row separator parallax"
+			data-background-image="images/gc4.jpg" data-parallax-factor="1">
+			<div class="col-md-10 col-md-offset-1" style="margin-bottom: 50px;">
+				<div class="row" style="margin-top: 40px;">
+					<h1>
+						<b>Proceso</b>
+					</h1>
+					<div class="col-md-3">
+					<i class="icon-user"></i>
+						<h4>1. Sesión informativa y registro en linea</h4>
+					</div>
+					
+					<div class="col-md-3">
+						<i class="icon-search"></i>
+						<h4>2. Búsqueda de tu proyecto</h4>
+					</div>		
+					
+					<div class="col-md-3">
+						<i class="icon-globe"></i>
+						<h4>3. Entrevista con el país destino</h4>
+					</div>	
+					
+					<div class="col-md-3">
+						<i class="icon-usd"></i> 
+						<h4>4. Pago</h4>
+					</div>		
+										
+				</div>
+				
+				<div class="row">
+					
+					<div class="col-md-3">
+						<i class="icon-envelope"></i>
+						<h4>5. Envío de documentos</h4>
+					</div>
+				
+					<div class="col-md-3">
+						<i class="icon-briefcase"></i>
+						<h4>6. Taller de preparación</h4>
+					</div>
+					
+					<div class="col-md-3">
+						<i class="icon-exchange"></i>
+						<h4>7. Intercambio</h4>
+					</div>
+					
+					<div class="col-md-3">
+						<i class="icon-smile"></i>
+						<h4>8. Taller de reintegración</h4>
+					</div>
+					
+				</div>
+				
+				<div class="row">				
+					<div class="col-md-3">
+						<i class="icon-comments"></i>
+						<h4>9. Cuenta tu historia y más oportunidades</h4>
+					</div>						
+				</div>
+
+			</div>
+		</section>
+
+
+		<section id="testimonials" class="row color">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="icon">
+					<i class="icon-info-sign"></i>
+				</div>
+				<h1>Programas</h1>
+				<div class="section-content">
+					<div class="row">
+						<div class="col-md-4">
+							<img class="programs" src="images/social.png">
+							<h4>
+								<b>Social Entrepreneurship</b>
+							</h4>
+							<p>Imparte talleres que promuevan una cultura empresarial y
+								visión global de negocios a niños y jóvenes</p>
+                               <p>&nbsp;</p> 
+							<h4>Cualidades:</h4>
+							<p>
+								•Visión empresarial<br>•Manejo de proyectos<br>•Gestión
+								de equipos
+							</p>
+						</div>
+						<div class="col-md-4">
+							<img class="programs" src="images/education.png">
+							<h4>
+								<b>Education</b>
+							</h4>
+							<p>Comparte tus conocimientos, valores y cultura para
+								beneficiar la educación de jóvenes y niños alrededor del mundo.			<br></p>
+							<p>&nbsp;</p>
+							
+                                
+		          <h4>Cualidades:</h4>
+							<p>
+								•Poder trabajar con niños<br>•Facilidad para impartir clases<br>•Habilidades
+								para motivar
+							</p>
+						</div>
+						          <div class="col-md-4">
+                <img class="programs" src="images/culture.png">
+                <h4><b>Culture</b></h4>
+                <p>Promover talleres orientados a desarrollar habilidades, crear conductas y generar mentalidad global para poder trabajar e interactuar efectivamente con personas de cualquier cultura.</p>
+                
+                 <h4>Cualidades:</h4>
+                 <p>•Ser una persona con mentalidad abierta o global<br>•Entendimiento de tu cultura<br>•Apertura a nuevas experiencias, ideas y culturas</p>
+              </div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="row separator parallax"
+			data-background-image="images/gc3.jpg" data-parallax-factor=".9">
+			<div class="col-md-10 col-md-offset-1">
+				<h2>
+					<br>
+					<br>
+					<b>Oportunidades disponibles en:</b>
+				</h2>
+				<div class="row" style="margin-bottom: 50px">
+					<div class="col-md-3">
+
+						<h4>Brasil</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Colombia</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Argentina</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Egipto</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Hungría</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Polonia</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>República Checa</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Rumania</h4>
+
+					</div>
+
+					<div class="col-md-3">
+						<h4>India</h4>
+					</div>
+					
+					<div class="col-md-3">
+
+						<h4>China</h4>
+
+					</div>
+					<div class="col-md-3">
+
+						<h4>Taiwán</h4>
+
+					</div>
+					
+					<div class="col-md-3">
+						<h4>&nbsp;</h4>
+					</div>				
+					
+					
+					<br>
+					<br>
+
+				</div>
+
+			</div>
+
+		</section>
+
+		<section id="testimonials" class="row color">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="icon">
+					<i class="icon-info-sign"></i>
+				</div>
+				<h1>Requerimentos</h1>
+				<div class="section-content">
+					<div class="row">
+						<div class="col-md-4">
+							<h4>Estudiante recién egresado</h4>
+						</div>
+						<div class="col-md-4">
+							<h4>18 a 29 años</h4>
+						</div>
+						<div class="col-md-4">
+							<h4>Querer trabajar en una organización en el extranjero</h4>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4">
+							<h4>Querer colaborar en proyectos de impacto social</h4>
+						</div>
+						<div class="col-md-4">
+							<h4>Ser un perfil culturalmente tolerante</h4>
+						</div>
+						<div class="col-md-4">
+							<h4>Buscar aprender de otras culturas</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section>
+
+		<section class="row separator parallax"
+			data-background-image="images/gc2.jpg" data-parallax-factor=".9">
+			<div class="col-md-10 col-md-offset-1" style="margin-bottom:50px">
+				<p>
+					<b>Costo del programa:<br> $2950 MXN
+					</b><br>
+					<br> El costo incluye:
+                    <br> - Seminario de preparación
+					<br> - Seminario de integración en el otro país
+					<br> - Seminario de reintegración
+					<br> - Cuenta en el sistema
+					<br> - Apoyo por parte de AIESEC previo, durante y después del intercambio
+					<br> - Acceso a la red de oportunidades internacionales
+					<br> - Certificado de participación
+					
+				</p>
+				<a href="javascript:void(0)" id="regButton2" class="btn">Regístrate aquí</a>
+			</div>
+		</section>
+
+
+
+		<!-- Contact -->
+		<section id="contact" class="row" data-scroll-factor="0.7">
+
+			<div class="col-md-10 col-md-offset-1">
+				<div class="icon">
+					<i class="icon-info"></i>
+				</div>
+				<h1>FAQ</h1>
+				<div class="panel-group" id="accordion-white">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle" data-toggle="collapse"
+									data-parent="#accordion-white" href="#collapseOneWhite">
+									Sobre los costos </a>
+							</h4>
+						</div>
+						<div id="collapseOneWhite" class="panel-collapse collapse in">
+							<div class="panel-body">
+								•¿Cuánto cuesta el programa y qué incluye?<br> $2,950.
+								Incluye la entrevista, Seminario de Preparación para el
+								extranjero, asesoramiento durante el proceso para ser aceptado
+								al proyecto de tu interés en el país destino.<br> •¿Cuándo
+								y dónde puedo pagar?<br> Da click aquí y encontrarás un
+								listado de la cuenta bancaria de nuestras oficinas locales.
+								ATENCIÓN: solo puedes realizar el pago después de haber sido
+								aceptado por una de nuestras oficinas locales.
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle" data-toggle="collapse"
+									data-parent="#accordion-white" href="#collapseTwoWhite">
+									Sobre los requisitos </a>
+							</h4>
+						</div>
+						<div id="collapseTwoWhite" class="panel-collapse collapse">
+							<div class="panel-body">
+								•¿Necesito tener certificado de inglés para poder aplicar?<br>
+								No es obligatorio presentar un certificado, dentro de tu proceso
+								te recomendaremos que realices un examen de inglés en línea para
+								comprobar tu nivel, el cual nosotros podremos otorgarte.<br>
+								•¿Necesito hablar el idioma del país en el que tomaré una
+								práctica? <br> En un país no hispanohablante, el idioma
+								requerido será el inglés.<br> •¿El seguro de gastos médicos
+								internacional es obligatorio?<br> Si, debe de cubrir los
+								dias en los que estará s realizando tu práctica.<br>
+								•¿Tienen alguna alianza con alguna aseguradora?<br> Si,
+								puedes elegir el seguro de tu conveniencia, AQUÍ el link de
+								nuestra alianza con Assist Card.<br> •¿El seminario de
+								preparación es obligatorio?<br> Sí es obligatorio, ya que
+								en este seminario se te explicarán acerca de las políticas de
+								los intercambios de AIESEC, cultura organizacional, que implica
+								ser un embajador mexicano entre otros.<br> •¿Necesito haber
+								terminado la universidad? <br> No es necesario, puedes ser
+								estudiante o recién egresado<br> •¿Necesito algún promedio
+								en especifico?<br> No, lo que nosotros buscamos es que tu
+								perfil sea apto para el programa no importando el promedio o
+								semestre en el que vayas.<br> •Estoy en el rango de edad,
+								pero me gradué/titulé hace algunos años, ¿Me puedo ir?<br>
+								Sí puedes aplicar, siempre y cuándo el límite de edad sea
+								respetado.
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle" data-toggle="collapse"
+									data-parent="#accordion-white" href="#collapseThreeWhite">
+									Sobre el proceso </a>
+							</h4>
+						</div>
+						<div id="collapseThreeWhite" class="panel-collapse collapse">
+							<div class="panel-body">
+								•¿Cuánto tiempo tardaré en completar el proceso?<br> De dos
+								semanas a tres meses después de haber sido aceptado en la
+								entrevista. Dependiendo de tu disposición de tiempo hacia la
+								búsqueda de las prácticas.<br> •¿Puedo elegir cualquier
+								país para tomar mi práctica?<br> Dependiendo de la oferta
+								que tengamos en nuestra plataforma, puedes elegir entre una
+								variedad de países y regiones. Sin embargo los países que
+								ofrecemos agilizan tu intercambio.<br> • ¿Cuánto tiempo
+								puede durar mi práctica?<br> Tu práctica puede durar de 6 a
+								8 semanas, sin embargo podrías encontrar alguna de hasta 3 meses
+								. <br> • ¿Cuánto tiempo trabajaré?<br> Deberás
+								trabajar dependiendo tu práctica, la mayoría de ellas es
+								alrededor de 30 horas por semana.<br>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle" data-toggle="collapse"
+									data-parent="#accordion-white" href="#collapseFourthWhite">
+									Sobre el intercambio </a>
+							</h4>
+						</div>
+						<div id="collapseFourthWhite" class="panel-collapse collapse">
+							<div class="panel-body">
+								• ¿Voy a recibir algún pago?<br> No, dependiendo de la
+								práctica, podrás recibir apoyo para el transporte, host o comida<br>
+								• ¿Voy a recibir ayuda en mis primeras semanas en el país en el
+								que hare mi práctica?<br> Desde el momento en el que llegas
+								la práctica te otorgará todo lo especificado en el contrato.
+								Dependiendo del comité local se te puede ayudar a adaptar de
+								manera adecuada a las costumbres, medios de transporte, palabras
+								básicas, entre otras cosas del lugar. <br> • ¿Me recogerán
+								en el aeropuerto?<br> Si, en caso de que no lo vayan a
+								hacer, se te avisa y recibirás toda la información detallada
+								sobre como llegar del aeropuerto a tu destino final.
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle" data-toggle="collapse"
+									data-parent="#accordion-white" href="#collapseFifthWhite">
+									Otras preguntas frecuentes </a>
+							</h4>
+						</div>
+						<div id="collapseFifthWhite" class="panel-collapse collapse">
+							<div class="panel-body">
+								• ¿Qué pasa si en mi universidad/ ciudad no existe oficina
+								local?<br> En el caso de que no exista una oficina local
+								puedes acercarte a cualquier otro, te recomendamos elegir el más
+								cercano.<br> • ¿Necesito registrarme en relaciones
+								exteriores?<br> Si, si necesitas registrarte en caso de que
+								exista algún problema en el país.<br> • ¿Hasta cuando puedo
+								usar la base de datos de AIESEC?<br> Tu contrato dura 4
+								meses pero en caso de que no hayas encontrado tu práctica por
+								causas externas, la oficinas nacional puede analizar y
+								posteriormente aceptar estas causas y extenderlo hasta 6 meses<br>
+								• ¿Sí ya tomé una práctica con AIESEC cuál es el proceso para tomar una segunda?
+								<br> El proceso es el mismo pero ya contarás con la experiencia por lo cual 
+								ya no tendrás que pasar por el seminario de preparación. Además al ser tu segunda 
+								práctica tendrás un precio especial de $1,500 pesos mexicanos
+								<br>
+								•¿AIESEC me ayuda en el proceso de visado?<br> Si, en
+								AIESEC te brindamos asesoramiento para el proceso de visado,
+								dependerá del país y el tiempo que se tarden en proporcionar la
+								VISA.<br> •¿Puedo tomar mi intercambio en otro país aparte
+								de los que ya han mencionado?<br> Con base a los análisis
+								hechos estos son las países con más probabilidades de tomar tu
+								practica por eso te recomendamos que te apegues a estos países,
+								sin embargo, en caso de que encuentres una práctica de tu
+								preferencia en otro país puedes aplicar, aunque el tiempo en
+								este puede tardar más.<br> •¿Con cuánto tiempo de
+								anticipación debo de registrarme en el programa Global Citizen?<br>
+								Tu registro puedes hacerlo hasta 1 mes antes, 
+								pero considera un tiempo de 3 meses para tener 
+								mejores oportunidades y preparación para tu viaje.
+								<br>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Accordion ends-->
+
+			</div>
+			<!-- End of .col-md-10 -->
+		</section>
+		<!-- End of Newsletter-->
+		<div class="blog-iframe-container">
+			<div class="icon">
+				<i class="icon-pencil"></i>
+			</div>
+			<div class="close-btn">
+				<i class="icon-remove-sign"></i>
+			</div>
+			<iframe id="iframe"></iframe>
+		</div>
+
+	
+			<section id="testimonials" class="row color">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="icon">
+					<i class="icon-info-sign"></i>
+				</div>
+				<h1>Más Oportunidades</h1>
+
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-6 col-sm-3">
+							<a href="globaltalent.html"><img src="images/gtWhite.png" style="width:100%;"></a>
+						</div>
+						<div class="col-xs-6 col-sm-3">
+							<br>
+							<a href="developingyou.html"><img src="images/dyWhite.png" style="width:100%;"></a>
+						</div>
+						<div class="col-xs-6 col-sm-3">
+							<br>
+							<a href="hostfamily.html"><img src="images/hf.png" style="width:100%;"></a>
+						</div>
+						<div class="col-xs-6 col-sm-3">
+							<a href="languages.html"><img src="images/languagesLogo.png" style="width:50%"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br>
+			<br>
+		</section>
+	
+
+					<!--Empieza código de pestaña de adquiere talento ineternacional (ventana Modal)-->
+              <div class="modal fade" id="opc" tabindex="-1" role="dialog"
+                    aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true" style="color: #fff;">&times;</span><span
+                          class="sr-only">Close</span>
+                      </button>
+                        <div class="text-center">
+                            <h3 class="modal-title" id="myModalLabel">
+                                <strong id="modal-lc-name">Adquiere talento</strong>
+                            </h3>
+                        </div>
+                    </div>
+                  <div class="modal-body" style="margin-left: 10%">
+                    <p class="h4">
+                      
+                    </p>
+                    <table align="center"  >
+            <tbody>
+              <tr>
+                <td class="icon_esta"><p align="center"><i class="icon-book icon-2x"></i><br><span>Talento Global&nbsp;&nbsp;&nbsp;&nbsp;</span><br />Talento internacional <br />&nbsp;&nbsp;para tu Empresa<br>
+                <a href="talentoglobal.html"><input type="submit" value="Ir"class="btn"   align="center"></a></p></td>
+                  
+                <td class="icon_esta" id="oficinas"><p align="center"><i class="icon-globe icon-2x"></i><br>  <span>&nbsp;&nbsp;&nbsp;&nbsp;Ciudadano Global</span><br />
+                  &nbsp;&nbsp;&nbsp;&nbsp;Talento internacional <br />&nbsp;&nbsp;&nbsp;&nbsp;para tu Organización<br>
+                <a href="ciudadanoglobal.html"><input type="submit" value="ir"class="btn"   align="center"></a></p></td>
+              </tr>
+            </tbody>
+          </table>
+                  </div>
+                  </div>
+               </div>
+            </div>
+              <!--Termina código de pestaña de adquiere talento ineternacional (ventana Modal)-->
+
+
+						<!--Empieza código de contacto hace uso de php para mandar correo-->
+              <div class="modal fade" id="contactt" tabindex="-1" role="dialog"
+      aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true" style="color: #fff;">&times;</span><span
+                class="sr-only">Close</span>
+            </button>
+            <div class="text-center">
+              <h3 class="modal-title" id="myModalLabel">
+                <strong id="modal-lc-name">AIESEC  México</strong>
+              </h3>
+            </div>
+          </div>
+          <div class="modal-body" style="margin-left: 10%">
+            Informes: Contacta a una oficina local o escribe a: 
+            <address class="h4" style="margin-top: 20px;">
+             <br> <i class="icon-envelope"></i> <a href="mailto:contacto@aiesec.org.mx" class="blue">contacto@aiesec.org.mx</a> <br>  <i class="icon-phone"></i>  (55) 52 65 9520           <br>
+            <br>
+          <p class="h4"></p>
+              <form  method="post" action="sendbymail2.php" >
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Nombre" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" id="comments" name="comments" rows="3" placeholder="Mensaje" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" ></input>
+                            </div>
+                        </form>
+            </address>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+                        <!--Termina código de contacto hace uso de php para mandar correo-->
+
+
+
+	<!-- Footer -->
+	<footer class="row color">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="row text-center">
+				<ul class="social-icons list-inline">
+					<li>
+						<a target="_blank" href="http://www.linkedin.com/company/aiesec-mexico">
+							<i class="icon-linkedin"></i>
+						</a>
+					</li>
+                    <li>
+                    	<a target="_blank" href="https://www.facebook.com/AIESECMX">
+                    		<i class="icon-facebook"></i>
+                    	</a>
+					</li>
+                    <li>
+                    	<a target="_blank" href="https://twitter.com/AIESECMexico">
+                    		<i class="icon-twitter"></i>
+                    	</a>
+					</li>
+                    <li>
+                    	<a target="_blank" href="https://www.youtube.com/user/AIESECMEXICO">
+                    		<i class="icon-youtube-play"></i>
+                    	</a>
+					</li>
+                    <li>
+                    	<a target="_blank" href="http://instagram.com/aiesecmexico">
+                    		<i class="icon-instagram"></i>
+                    	</a>
+					</li>
+				</ul>
+				<span>AIESEC México &copy; 2014. Todos los derechos reservados.</span><br>
+				<span><a href="privacyPolicy.html" style="text-decoration:underline" target="_blank">Aviso de Privacidad</a></span>
+			</div>
+		</div> <!-- End of .col-md-10 -->
+	</footer> <!-- End of Footer -->
+
+
+	</div>
+	<!-- End of Container -->
+
+	<script data-main="js/config" src="js/require.js"></script>
+  <script type="text/javascript">
+  var iframeContainer = document.getElementsByClassName("blog-iframe-container");
+  var iframe = document.getElementById("iframe");
+  document.getElementById("register").onclick = function (e) {
+      if (Modernizr.touch) return;
+      e.preventDefault();
+      // change iframe url
+      iframe.setAttribute('src', 'globalcitizen/register.html');
+    };
+    document.getElementById("regButton").onclick = function (e) {
+      if (Modernizr.touch) return;
+      e.preventDefault();
+      // change iframe url
+      iframe.setAttribute('src', 'globalcitizen/register.html');
+	  //location.href="http://internships.aiesec.org";
+    };
+    document.getElementById("regButton2").onclick = function (e) {
+        if (Modernizr.touch) return;
+        e.preventDefault();
+        // change iframe url
+        iframe.setAttribute('src', 'globalcitizen/register.html');
+		//location.href="http://internships.aiesec.org";
+      };
+    document.getElementById("share").onclick = function (e) {
+      if (Modernizr.touch) return;
+      e.preventDefault();
+      // change iframe url
+      iframe.setAttribute('src', 'globalcitizen/share.html');
+    };
+  </script>
+  <div style="filter:alpha(opacity=0);opacity:0.001;z-index: 10; height: 150px;">  </div></body>
+</html>
