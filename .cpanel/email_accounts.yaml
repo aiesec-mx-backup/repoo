@@ -1,0 +1,60 @@
+--- 
+__version: '2.1'
+academy.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+aiesec.org.mx: 
+  account_count: 1
+  accounts: 
+    pruena: 
+      disk_mtime: '1424642849'
+      diskquota: 262144000
+      diskused: 0
+  disk_mtime: '1424642849'
+  passwd_mtime: '1424642849'
+  quota_mtime: '1424642849'
+alumni.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+apollo14.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+conal.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+dare.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+expansion.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+mcmembers.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+mcmexico.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+powerup.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+support.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+tpm2014.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+
+vivamexico.aiesec.org.mx: 
+  account_count: 0
+  accounts: {}
+

@@ -1,0 +1,29 @@
+[26-Dec-2014 02:23:29 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:27:27 America/Chicago] PHP Warning:  move_uploaded_file(archivos/16707_964324510261577_7523064719336597214_n.jpg): failed to open stream: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 10
+[26-Dec-2014 02:27:27 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo5Kvzk' to 'archivos/16707_964324510261577_7523064719336597214_n.jpg' in /home/wwwaiese/public_html/bj/index.php on line 10
+[26-Dec-2014 02:27:27 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:27:49 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:27:54 America/Chicago] PHP Warning:  move_uploaded_file(archivos/16707_964324510261577_7523064719336597214_n.jpg): failed to open stream: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 10
+[26-Dec-2014 02:27:54 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmHIlOs' to 'archivos/16707_964324510261577_7523064719336597214_n.jpg' in /home/wwwaiese/public_html/bj/index.php on line 10
+[26-Dec-2014 02:27:54 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:31:09 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:31:18 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:32:17 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:32:37 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:33:10 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:34:21 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 37
+[26-Dec-2014 02:36:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wwwaiese/public_html/bj/index.php on line 15
+[26-Dec-2014 02:37:14 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 38
+[26-Dec-2014 02:37:24 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 38
+[26-Dec-2014 02:39:07 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 38
+[26-Dec-2014 02:39:43 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 38
+[26-Dec-2014 02:42:12 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 02:42:23 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 02:42:55 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 02:42:56 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 02:42:57 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 18:02:02 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 18:07:13 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 18:11:18 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[26-Dec-2014 18:11:20 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39
+[28-Dec-2014 01:32:26 America/Chicago] PHP Warning:  opendir(archivos): failed to open dir: No such file or directory in /home/wwwaiese/public_html/bj/index.php on line 39

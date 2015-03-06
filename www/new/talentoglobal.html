@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AIESEC Mexico | Talento Global</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <!--hmz-->
+    
+    <!-- Bootstrap -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,300italic' rel='stylesheet' type='text/css'>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <!--<link href="css/font-awesome.css" rel="stylesheet">-->
+     <link href="css/bootstrap.css" rel="stylesheet">
+
+    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="css/colorbox.css" rel="stylesheet" type="text/css">
+
+    <link href="css/jquery.bxslider.css" rel="stylesheet" />
+
+    <style type="text/css">
+    .line{
+    	float:left;
+    	display:inline;
+    	width:10%;
+    	font-size: .6em;
+    	line-height: 25px;
+    }
+    .blist{
+    	background:transparent;
+    	color:#E6E6E6;
+    }
+    .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+    	background: transparent;
+    }
+    section.color{
+      background: #152F56;
+    }
+    section.color .icon {
+      box-shadow: #20185A;
+      background-color: #20185A;
+    }
+    .list li{
+      line-height: 25px;
+      font-size: 18px;
+      text-align: left;
+    }
+    .bold{
+      font-weight: bold;
+    }
+    .programs{
+      width:100px; 
+    }
+    #mainLogo{
+      width:250px;
+      
+    }
+    .lineUp{width: 100%;}
+    .lato{font-family: 'Lato',sans-serif;font-weight: 300;}
+    .i-replace{margin-left: -9px;margin-top: -15px;}
+    .justify{text-align: justify;}
+    
+     #productLogo{
+      max-width: 400px !important;
+      left: 40% !important;
+      top: 100px !important;
+      height: auto !important;
+      width: 20% !important;
+    }
+	#regButton {
+      position:absolute;
+      z-index:10;
+      bottom:23%;
+      left:64%;
+      background: #E6E6E6;
+      color:black;
+      font-size: 1.3em;
+      max-width: 40%;
+    }
+    .modal-header {
+      color: #fff;
+    }
+    
+.modal-body address a {
+      color: inherit;
+      text-decoration: underline;
+    }
+    
+    .blue {                color:#012087 !important;
+                font-size: 1.2em;
+}
+    </style>
+  </head>
+  <body>
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <i class="icon-refresh icon-spin"></i>
+  </div>
+
+
+  <div class="container">
+ <header class="row">
+
+      <!-- Navigation Bar -->
+      <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!--<a class="navbar-brand" href="#">AIESEC</a>-->
+          <a href="index.html"> <img id="mainLogo" src="images/logoAIESEC.png"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+           <li><a href="acercade.html">Acerca de AIESEC</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Estudiantes y Egresados <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="globalcitizen.html">Global Citizen</a></li>
+            <li><a href="globaltalent.html">Global Talent</a></li>
+            <li><a href="developingyou.html">Developing You</a></li>
+            <!--<li class="divider"></li>-->
+            <li><a href="hostfamily.html">Host FamilY</a></li>
+            <li><a href="languages.html">Languages</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organizaciones y Empresas <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <!--<li><span>&nbsp;Organizaciones:</span></li>
+            <li><a href="ciudadanoglobal.html">&nbsp;&nbsp;Ciudadano Global</a></li>
+            <li class="divider"></li>
+            <li><span>&nbsp;Empresas</span></li>
+            <li><a href="talentoglobal.html">&nbsp;&nbsp;Talento Global</a></li>
+            <li><a class="lc" href="soon.html">&nbsp;&nbsp;Youth to Business</a></li>
+            -->
+            <li><a href="posicionamiento.html"><span>&nbsp;Posiciona tu empresa</span></a></li>
+            <li><a class="btn"  data-toggle="modal" data-target="#opc" align="center"><span>&nbsp;Adquiere talento internacional</span></a></li>
+          </ul>
+        </li>
+         <li><a href="alumni.html" class="scroll">Alumni</a></li>
+         <li><a class="lc" href="soon.html">Blog</a></li>
+          <li><a href="#contact"  data-toggle="modal"  align="center">Contacto</a></li>
+            
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </nav><!-- End of Navigation Bar -->
+
+
+    </header>
+
+    <div class="btn-group-vertical" style="position: fixed; right: 0px; top: 20%; z-index: 10000; width: 10%;">       
+      <a href="index.html" class="blist btn btn-default"><b>Adquiere Talento <br> Internacional</b></a>
+      <!-- <a href="index.html" class="blist btn btn-default"><b>Conoce nuestros<br>Aliados Nacionales</b></a> -->
+       <a href="#partners" class="blist btn btn-default"><b>Conoce nuestros<br>Aliados Nacionales</b></a>
+      <a href="index.html" class="blist btn btn-default"><b>Más sobre<br> AIESEC</b></a>
+      <a href="#contact"  class="blist btn btn-default" data-toggle="modal"  align="center"><b>Contáctanos</b></a>
+    </div>   
+
+    <!-- Slider -->
+    <a class="scroll scroll-down-arrow" href="#services"><i class="icon-arrow-down"></i></a>
+    <section id="slider" class="row">
+   
+      <div id="wanchai-carousel" class="carousel slide">
+        <!-- Indicators -->
+        
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active">
+            <img src="images/gt1.jpg" alt="...">
+            <div class="carousel-caption">
+            	<img src="images/tgWhite.png" id="productLogo" alt="Talento Global Logo">
+            	<p class="text-justify">Este programa ofrece a las empresas y organizaciones acceso a una red global de talento pre-seleccionado de las
+            	diferentes universidades en las que estamos presentes alrededor del mundo.</p>
+            </div>
+          </div>
+          
+        </div>
+
+      </div><!-- End of #wanchai-carousel -->
+   
+    </section><!-- End of Slider -->
+     <div class="blog-iframe-container">
+      <div class="icon"><i class="icon-pencil"></i></div>
+      <div class="close-btn"><i class="icon-remove-sign"></i></div>
+      <iframe id="iframe"></iframe>
+    </div>
+
+    <!-- Services -->
+    <section class="row color" data-scroll-factor="0.7">
+        <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><i class="icon-ok"></i></div>
+          <h1>Valor agregado</h1>
+          <div class="section-content">
+            
+            <div class="row">
+
+              <div class="col-md-8 col-md-offset-2 text-left">
+				<ul>
+					<li><p class="h4">Talento internacional de Alto Impacto proveniente de las mejores universidades del mundo.</p></li>
+					<li><p class="h4">Equipos multiculturales dentro de la empresa.</p></li>
+					<li><p class="h4">Efectividad en costos.</p></li>
+          <li><p class="h4">Presencia geográfica en la red de aliados y miembros de AIESEC.</p></li>
+
+				</ul>
+              	<h4>
+               
+             
+            </div>
+          </div>
+        </div><!-- End of .col-md-10 -->
+    </section><!-- End of About Us -->
+    
+    <section class="row separator parallax" data-background-image="images/gt3.jpg" data-parallax-factor="1">
+        <div class="col-md-10 col-md-offset-1">
+			<h1>Perfiles Disponibles</h1>
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-4">
+                <img class="programs" src="images/it.png">
+                <h4>Tecnologías de la información</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/ba.png">
+                <h4>Administración</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/en.png">
+                <h4>Ingeniería</h4>
+              </div>
+            </div>
+            <div class="row">
+            <div class="col-md-2"></div>
+              <div class="col-md-4">
+                <img class="programs" src="images/te.png">
+                <h4>Enseñanza</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/ma.png">
+                <h4>Mercadotecnia</h4>
+              </div>
+              <div class="col-md-2"></div>
+          </div>
+		</div>
+    </section>
+    
+
+     <section id="testimonials" class="row color">
+      <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><i class="icon-info-sign"></i></div>
+          <h1>Responsabilidades</h1>
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-6 justify"><h3>AIESEC:
+        </h3>
+        <p>- Búsqueda y pre-filtro del perfil que la empresa requiere.<br>
+-Procesos migratorios del participantes.<br>
+-Cuestiones logísticas con el practicante (recepción y despedida en el aeropuerto y opciones de vivienda). <br>
+-Inmersión cultural del practicante en México. <br>
+-Seguimiento del desempeño del practicante con la empresa. <br>
+-Llevar una relación de estrecha comunicación con la empresa<br></p></div>
+              <div class="col-md-6 justify"><h3>Empresa:</h3>
+       <p>- Proveer de una experiencia profesional de aprendizaje al participante.<br>
+- Proporcionar un espacio de trabajo adecuado. <br>
+- Otorgar a AIESEC las cuotas y donativos en tiempo y forma. <br>
+- Llevar una relación de estrecha comunicación con AIESEC. <br>
+- Otorgar retroalimentación a AIESEC y el practicante por las actividades realizadas. <br> 
+</p> 
+              
+            </div>
+          </div>
+      </div>
+    </section>
+
+   <section class="row separator parallax" data-background-image="images/gc4.jpg" data-parallax-factor="1">
+        <div class="col-md-10 col-md-offset-1">
+        	<h1>Proceso</h1>
+          <div class="row">
+
+              <div class="col-md-4">
+                <i class="icon-book"></i>
+                <h4>1. Firma de convenio y descripción de la práctica</h4>
+
+              </div>
+              <div class="col-md-4">
+                <i class="icon-money"></i>
+                <h4>2. Pago de cuota de apertura de vacante</h4>
+              </div>
+              <div class="col-md-4">
+                <i class="icon-search"></i>
+                <h4>3. Selección del practicante</h4>
+              </div>
+          
+          </div>
+              <div class="col-md-4">
+                <i class="icon-envelope"></i>
+                <h4>4. Proceso migratorio</h4>
+              </div>
+            <div class="row">
+              <div class="col-md-4">
+                <i class="icon-user"></i>
+                <h4>5. Presentación y llegada del participante</h4>
+              </div>
+              <div class="col-md-4">
+                <i class="icon-calendar"></i>
+                <h4>6. Seguimiento del practicante y manejo de los donativos mensuales</h4>
+              </div>
+            </div>
+            <br>
+             <hr>
+             
+      </div>     
+    </section>
+
+      <!-- Codigo de aliados -->
+    <section id="partners" class="row" data-scroll-factor="0.7">
+    <div class="col-md-10 col-md-offset-1">      
+        <div class="icon"> <i class="icon-thumbs-up"></i>
+
+        </div> 
+        <h1>Nuestros Aliados que han adquirido Talento Global con AIESEC en México</h1>
+       
+        <ul class="slider1">
+          <li><img src="images/partners/bosch.png" alt="Bosch"></li>
+          <li><img src="images/partners/rsz_bbva-bancomer1.png" alt="BBVA_bancomer"></li>
+          <li><img src="images/partners/enlace.png" alt="Enlace Empresarial"></li>
+          <li><img src="images/partners/gnk.png"  alt="GNK Log&iacute;stica"></li>
+          <li><img src="images/partners/rsz_hsbc.png" alt="HSBC"></li>
+          <li><img src="images/partners/hersheys.png" alt="Hershey's"></li>
+          <li><img src="images/partners/inglesco2.png" alt="Ingles_co"></li>
+          <li><img src="images/partners/rsz_1metalsa.png" alt="Metalsa"></li>          
+          <li><img src="images/partners/rsz_novartis.png" alt="Novartis"></li>
+          <li><img src="images/partners/pepsico.png" alt="Pepsico"></li>
+          <li><img src="images/partners/pwc.png" alt="PwC"></li>
+          <li><img src="images/partners/rsz_scotiabank.png" alt="Scotiabank"></li>
+        </ul>
+      </div>
+      <!-- end of col-md-10 -->
+    </section>
+      <!-- Termina codigo de aliados-->
+
+        <section class="row color">
+      <div class="col-md-12">
+          <div class="icon"><i class="icon-book"></i></div>
+        <h2>Otras oportunidades en AIESEC</h2>
+        
+              <div class="col-md-4">
+                <a href="http://www.aiesec.org.mx/new/posicionamiento.html"><img src="images/posLogo.png" >
+              </div>
+              
+      
+      <a class="btn" id="regButton" data-toggle="modal" data-target="#lcInfo">Adquirir talento internacional</a>
+      
+    </section>
+   
+   <!--slider-->
+      <div class="blog-iframe-container">
+			<div class="icon">
+				<i class="icon-book"></i>
+			</div>
+			<div class="close-btn">
+				<i class="icon-remove-sign"></i>
+			</div>
+			<iframe id="iframe"></iframe>
+		</div>
+
+		<!-- Detalle de las entidades locales -->
+		<div class="modal fade" id="lcInfo" tabindex="-1" role="dialog"
+			aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">
+							<span aria-hidden="true" style="color: #fff;">&times;</span><span
+								class="sr-only">Close</span>
+						</button>
+						<div class="text-center">
+							<h3 class="modal-title" id="myModalLabel">
+								<strong id="modal-lc-name">AIESEC  México</strong>
+							</h3>
+						</div>
+					</div>
+					<div class="modal-body" style="margin-left: 10%">
+						Informes: Contacta a una oficina local o escribe a: 
+						<address class="h4" style="margin-top: 20px;">
+						 <br> <i class="icon-envelope"></i> <a href="mailto:contacto@aiesec.org.mx" class="blue">contacto@aiesec.org.mx</a> <br>  <i class="icon-phone"></i>  (55) 52 65 9520						<br>
+						<br>
+<p class="h4"></p>
+ <form  method="post" action="sendbymail2.php" >
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Nombre" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" id="comments" name="comments" rows="3" placeholder="Mensaje" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" ></input>
+                            </div>
+                        </form>
+					  </address>
+					</div>
+				</div>
+			</div>
+		</div>
+        </div>
+        
+      <!--endslider-->
+
+<!--
+
+     <section id="testimonials" class="row color">
+      <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><i class="icon-info-sign"></i></div>
+          <h1>Programas</h1>
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-4">
+                <img class="programs" src="images/it.png">
+                <h4>Information Technology</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/ba.png">
+                <h4>Business and Administrator</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/en.png">
+                <h4>Engineering</h4>
+              </div>
+            </div>
+            <div class="row">
+            <div class="col-md-2"></div>
+              <div class="col-md-4">
+                <img class="programs" src="images/te.png">
+                <h4>Teaching</h4>
+              </div>
+              <div class="col-md-4">
+                <img class="programs" src="images/ma.png">
+                <h4>Marketing</h4>
+              </div>
+              <div class="col-md-2"></div>
+          </div>
+      </div>
+    </section>
+    <section class="row separator parallax" data-background-image="images/gt4.jpg" data-parallax-factor=".9">
+        <div class="col-md-10 col-md-offset-1">
+        <img class="programs" src="images/it.png">
+        <h2>Prueba Technology</h2>
+        <div class="row">
+              <div class="col-md-3">
+                <h4 class="bold">Conocimientos generales que puede tener el perfil</h4><hr>
+                <ul class="list">
+                  <li>Manejo de redes y trasmisión de datos</li>
+                  <li>Diseño y análisis de sistemas</li>
+                  <li>PTecnología móvil</li>
+                  <li>Manejo de bases de datos</li>
+                  <li>Manejo y desarrollo web</li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Principales habilidades<br><br></h4><hr>
+                <ul class="list">
+                 <li>Microsoft SQL</li>
+                  <li>MySQL</li>
+                  <li>UNIX/Linux OS</li>
+                  <li>Database Design and Development Tools</li>
+                  <li>Javascript</li>
+                  <li>Microsoft SQL Server</li>
+                  <li>PHP</li>
+                  <li>LAN</li>
+                  <li>XML</li>
+                  <li>CSS</li>
+                  <li>Windows OS</li>
+                  <li>Entre otras</li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Principales Países<br><br><br></h4><hr>
+                <ul class="list">
+                  <li>India</li>
+                  <li>Ucrania</li>
+                  <li>Brasil</li>
+                  <li>Alemania</li>   
+                  <li>Colombia</li>  
+                  <li>Polonia</li>                   
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Duración promedio de pasantia<br><br></h4><hr>
+                <ul class="list">
+                  <li>6 a 12 Meses</li>
+                </ul>
+              </div>
+
+      </div>
+    </section>
+    <section class="row color">
+      <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><img class="programs i-replace" src="images/ba.png"></div>
+        <h2>Business and Administration</h2>
+        <div class="row">
+              <div class="col-md-3">
+                <h4 class="bold">Conocimientos generales que puede tener el perfil</h4><hr><p class="justify lato">
+                <b>ADMINISTRACIÓN Y ORGANIZACIÓN DE EVENTOS</b></br>
+•Liderar un equipo de personas para la organización de conferencias, manejando la logística, promoción y publicidad.<br><br>
+
+<b>ADMINISTRACIÓN HOTELERA Y RESTAURANTERA</b><br>
+•Administrar el servicio en hotelería y restaurantes<br>
+•Visitar a clientes potenciales para promoción de productos y servicios<br>
+•Involucrarse en la parte de contratos y administración<br>
+•Desarrollar e implementar sistemas de mejora de calidad en servicio<br>
+•Trabajar en el área de Recursos Humanos<br><br>
+<b>NEGOCIOS INTERNACIONALES</b><br>
+•Departamento de Logística<br>
+•Departamento de Ventas<br>
+•Desarrollo de Negocios<br><br>
+
+<b>IMPORTACIONES Y EXPORTACIONES</b><br>
+•Realizar estudios de Mercado para el desarrollo y alcance a nuevos mercados en la región<br>
+•Mantener y generar nuevos contactos de proveedores y clientes por diferentes medios.<br>
+•Preparar y organizar ferias y exhibiciones internacionales<br>
+•Atraer nuevos clientes potenciales y contactar y hacer negocios con nuevos mercados<br>
+•Documentar y actualizar la base de datos del departamento con un sistema de CRM</p>
+              
+              </div>
+              <div class="col-md-3">
+              <h4 class="bold">Principales habilidades<br><br></h4><hr>
+                <ul class="list">
+                 <li>English</li>
+                  <li>Pc User</li>
+                  <li>Internet User</li>
+                  <li>Team Management</li>
+                  <li>Organisational Management</li>
+                  <li>Leadership Skills</li>
+                  <li>Financial Management</li>
+                  <li>Client servicing</li>
+                  <li>Project Management</li>
+                  <li>Financial Management Skills</li>
+                </ul>
+                <br>
+                </div>
+                <div class="col-md-3">
+                <h4 class="bold">Principales Países<br><br><br></h4><hr>
+                <ul class="list">
+                  <li>China</li>
+                  <li>Rusia</li>
+                  <li>Brasil</li>
+                  <li>Colombia</li>  
+                  <li>Polonia</li>                   
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Duración promedio de pasantia<br><br></h4><hr>
+                <ul class="list">
+                  <li>6 a 12 Meses</li>
+                </ul>
+              </div>
+      </div>
+    </section>
+
+    <section class="row separator parallax" data-background-image="images/gt2.jpg" data-parallax-factor=".9">
+        <div class="col-md-10 col-md-offset-1">
+        <img class="programs" src="images/ma.png">
+        <h2>Marketing</h2>
+        <div class="row">
+              <div class="col-md-3">
+                <h4 class="bold">Conocimientos generales que puede tener el perfil</h4><hr>
+
+                <ul class="list">
+                <li><b>ESTUDIOS DE MERCADO Y EVALUACIÓN</b></li>
+                 <li>Realizar estudios de mercado efectivos para introducir a la compañía a nuevos países</li>
+                  <li>Analizar los mercsdos más óptimos para expandir 
+operaciones de ventas</li>
+                  <li>Realizar estudios de outsourcing y preparar una estructura de trabajo con compañías extranjeras</li>
+                  <li>Contactar compañías extranjeras y encargarse de la comunicación.</li>
+                <br>
+                 <li><b>CUSTOMER RELATIONSHIP MANAGEMENT</b></li>
+                  <li>Ser responsable de la administración de procesos de ventas</li>
+                  <li>Incrementar las ganancias de la compañia en base a los clientes actuales</li>
+                  <li>Ser responsable de la comunicación con los clientes, 
+resolución de conflictos, etc.</li>
+                  <li>Mantener reportes de ventas semanales con el Director de la compañía</li>
+                  <li>Asegurar que todos los procesos y procedimientos sean completados de manera efectiva, los estándares de calidad sean alcanzados y los proyectos obtengan 
+ganancias</li>
+                  <li>Crear e implementar un sistema de satisfacción al cliente</li>
+                  <br>
+                  <li><b>INTERNATIONAL MARKETING</b></li>
+                  <li>Trabajar en el área de negociación internacional</li>
+                  <li>Establecer contactos de ventas internacionales</li>
+                  <li>Realizar un plan de Mercado para expandir operaciones en un nuevo país o países.</li>
+                </ul>
+              
+              </div>
+              <div class="col-md-3">
+              <h4 class="bold">Principales habilidades<br><br></h4><hr>
+                <ul class="list">
+                 <li>Advanced English</li>
+                  <li>6 months of work experience</li>
+                  <li>Graphic design</li>
+                  <li>Project Management</li>
+                  <li>Windows Operating Systems </li>
+                  <li>Internet Skills</li>
+                  <li>PC User Skills</li>
+                  <li>Leadership Skills</li>
+                  <li>Client Servicing Skills</li>
+                  <li>Mac OS</li>
+                  <li>Adobe Suite</li>
+                </ul>
+                <br>
+                </div>
+                <div class="col-md-3">
+                <h4 class="bold">Principales Países<br><br><br></h4><hr>
+                <ul class="list">
+                  <li>China</li>
+                  <li>Rusia</li>
+                  <li>Brasil</li>
+                  <li>Colombia</li>  
+                  <li>Polonia</li>
+                  <li>Alemania</li>                    
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Duración promedio de pasantia<br><br></h4><hr>
+                <ul class="list">
+                  <li>6 a 12 Meses</li>
+                </ul>
+              </div>
+      </div>
+    </section>
+     <section class="row color">
+      <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><img class="programs i-replace" src="images/en.png"></div>
+        <h2>Engineering</h2>
+        <div class="row">
+              <div class="col-md-3">
+                <h4 class="bold">Conocimientos generales que puede tener el perfil</h4><hr><p class="justify lato">
+                <b>INDUSTRIAL ENGINEERING & PROCESS ENGINEERING:</b><br>
+
+•Asistir en el análisis y optimización económica de la infraestructura de energía<br>
+•Monitorear líneas de producción y mantenimiento<br>
+•Trabajar en Ingeniería Manufacturera<br>
+•Analizar los procesos mecánicos y electrónicos, plantear sugerencias para su mejora e implementación de las mismas.<br>
+•Diseño de productos<br>
+•Análisis en procesos técnicos y toma de acciones en la optimización de procesos diarios en la empresa<br>
+•Participar en la optimización y estandarización de procesos logísticos<br>
+•Automatización Industrial<br>
+•Producción y mantenimiento de procesos.
+<br><br>
+<b>ELECTRICAL, ELECTRONICS ENGINEERING:</b><br>
+
+•Trabajar en proyectos de alta tensión<br>
+•Administrar la medición de sistemas de sensores y circuitos eléctricos<br>
+•Desarrollar conceptos de sistemas de mantenimiento preventive e implementarlos<br>
+•Desarrollar sistemas de seguridad informática<br>
+•Desarrollo de páginas web<br><br>
+
+<b>MECHANICAL ENGINEERING:</b> <br>
+
+•Desarrollo e implementación de proyectos en diseño mecánico<br>
+•Supervisar sistemas de turbinas hidráulicas<br>
+•Trabajar en el área de producción manufacturera<br>
+•Apoyar en el desarrollo del departamento de robótica<br>
+•Analizar el estado actual del área de industria plástica y dar sugerencias</p>
+              
+              </div>
+              <div class="col-md-3">
+              <h4 class="bold">Principales habilidades<br><br></h4><hr>
+                <ul class="list">
+                 <li>Internet User Skills </li>
+                  <li>Pc User</li>
+                  <li>Corel Draw </li>
+                  <li>Sap</li>
+                  <li>Auto-CAD </li>
+                  <li>Leadership Skills</li>
+                  <li>Fluid Mechanics</li>
+                  <li>Fuel Cells</li>
+                  <li> Aerospace Engineering </li>
+                  <li> Aircraft Engine Technology </li>
+                  <li>Windows Operating Systems </li>
+                  <li>Marketing / Selling skills </li>
+                  <li>Client Servicing Skills </li>
+                  <li>Training/ Facilitating skills</li>
+                  <li>Organisational Manageme</li>
+                </ul>
+                <br>
+                </div>
+                <div class="col-md-3">
+                <h4 class="bold">Principales Países<br><br><br></h4><hr>
+                <ul class="list">
+                  <li>India</li>
+                  <li>Ucrania</li>
+                  <li>Brasil</li>
+                  <li>Colombia</li>  
+                  <li>Polonia</li>
+                  <li>Alemania</li>                   
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Duración promedio de pasantia<br><br></h4><hr>
+                <ul class="list">
+                  <li>6 a 12 Meses</li>
+                </ul>
+              </div>
+      </div>
+    </section>
+       <section class="row separator parallax" data-background-image="images/gt2.jpg" data-parallax-factor=".9">
+        <div class="col-md-10 col-md-offset-1">
+        <img class="programs" src="images/te.png">
+        <h2>Teaching</h2>
+        <div class="row">
+              <div class="col-md-3">
+                <h4 class="bold">Conocimientos generales que puede tener el perfil</h4><hr>
+
+                <ul class="list">
+                <li><b>ENSEÑANZA AVANZADA</b></li>
+                 <li>Realizar evaluaciones periódicas sobre el desempeño de los alumnos</li>
+                  <li>Realizar evaluaciones para determinar el nivel de dominio del idioma en los alumnos</li>
+                  <li>Compartir métodos de enseñanza utilizados en el país de origen</li>
+                  <li>Desarrollar un plan de acción para mejorar habilidades de comunicación y lenguaje</li>
+                  <li>Implementar cursos de entrenamiento en idiomas a compañías</li>
+                  <li>Establecer planes de optimización del proceso educativo</li><br>
+
+                <li><b>ENSEÑANZA EN LENGUAS EXTRANJERAS Y LINGÜÍSTICA</b></li>
+                  <li>Dar clases de un idioma en específico</li>
+                  <li>Ser responsable de cursos de fonética, gramática y lectura</li>
+                  <li>Desarrollar un programa de enseñanza de idiomas para niños y adultos</li>
+                  <li>Realizar evaluaciones periódicas sobre el desempeño de los alumnos</li>
+                  <li>Realizar evaluaciones para determinar el nivel de dominio del idioma en los alumnos</li>
+                  <li>Compartir métodos de enseñanza utilizados en el país de origen</li>
+              </ul>
+              </div>
+              <div class="col-md-3">
+              <h4 class="bold">Principales habilidades<br><br></h4><hr>
+                <ul class="list">
+                 <li>Advanced English</li>
+                  <li>Internet Skills</li>
+                  <li>PC User Skills</li>
+                  <li>Leadership Skills</li>
+                  <li>Team management</li>
+                  <li>Project Management</li>
+                  <li>Organisational Management</li>
+                </ul>
+                </div>
+                 <div class="col-md-3">
+                <h4 class="bold">Principales Países<br><br><br></h4><hr>
+                <ul class="list">
+                  <li>China</li>
+                  <li>Rusia</li>
+                  <li>Brasil</li>
+                  <li>Colombia</li>  
+                  <li>Polonia</li><br>
+                  <li><b>IDIOMAS</b></li>
+                  <li>Inglés, Portugués, Chino, Francés</li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h4 class="bold">Duración promedio de pasantia<br><br></h4><hr>
+                <ul class="list">
+                  <li>3 a 6 Meses</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+   
+    </section>
+
+	<section class="row color">
+		<div class="col-md-12">
+			<div class="icon"><i class="icon-book"></i></div>
+			<h2>Otras oportunidades en AIESEC</h2>
+			<div class="row">
+				<div class="col-md-4 col-md-offset-4"><img src="images/posLogo.png" class="lineUp" style="width: "></div>
+			</div>
+		</div>
+	</section>
+
+-->
+          <!--Empieza código de pestaña de adquiere talento ineternacional (ventana Modal)-->
+              <div class="modal fade" id="opc" tabindex="-1" role="dialog"
+                    aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true" style="color: #fff;">&times;</span><span
+                          class="sr-only">Close</span>
+                      </button>
+                        <div class="text-center">
+                            <h3 class="modal-title" id="myModalLabel">
+                                <strong id="modal-lc-name">Adquiere talento</strong>
+                            </h3>
+                        </div>
+                    </div>
+                  <div class="modal-body" style="margin-left: 10%">
+                    <p class="h4">
+                      
+                    </p>
+                    <table align="center"  >
+            <tbody>
+              <tr>
+                <td class="icon_esta"><p align="center"><i class="icon-book icon-2x"></i><br><span>Talento Global&nbsp;&nbsp;&nbsp;&nbsp;</span><br />Talento internacional <br />&nbsp;&nbsp;para tu Empresa<br>
+                <a href="talentoglobal.html"><input type="submit" value="Ir"class="btn"   align="center"></a></p></td>
+                  
+                <td class="icon_esta" id="oficinas"><p align="center"><i class="icon-globe icon-2x"></i><br>  <span>&nbsp;&nbsp;&nbsp;&nbsp;Ciudadano Global</span><br />
+                  &nbsp;&nbsp;&nbsp;&nbsp;Talento internacional <br />&nbsp;&nbsp;&nbsp;&nbsp;para tu Organización<br>
+                <a href="ciudadanoglobal.html"><input type="submit" value="ir"class="btn"   align="center"></a></p></td>
+              </tr>
+            </tbody>
+          </table>
+                  </div>
+                  </div>
+               </div>
+            </div>
+              <!--Termina código de pestaña de adquiere talento ineternacional (ventana Modal)-->
+
+
+            <!--Empieza código de contacto hace uso de php para mandar correo-->
+              <div class="modal fade" id="contact" tabindex="-1" role="dialog"
+      aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true" style="color: #fff;">&times;</span><span
+                class="sr-only">Close</span>
+            </button>
+            <div class="text-center">
+              <h3 class="modal-title" id="myModalLabel">
+                <strong id="modal-lc-name">AIESEC  México</strong>
+              </h3>
+            </div>
+          </div>
+          <div class="modal-body" style="margin-left: 10%">
+            Informes: Contacta a una oficina local o escribe a: 
+            <address class="h4" style="margin-top: 20px;">
+             <br> <i class="icon-envelope"></i> <a href="mailto:contacto@aiesec.org.mx" class="blue">contacto@aiesec.org.mx</a> <br>  <i class="icon-phone"></i>  (55) 52 65 9520           <br>
+            <br>
+          <p class="h4"></p>
+              <form  method="post" action="sendbymail2.php" >
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Nombre" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" id="comments" name="comments" rows="3" placeholder="Mensaje" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" ></input>
+                            </div>
+                        </form>
+            </address>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+                        <!--Termina código de contacto hace uso de php para mandar correo-->
+
+    <!-- Footer -->
+	<footer class="row color">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="row text-center"><a target="_blank" href="http://instagram.com/aiesecmexico">
+           		<i class="icon-instagram"></i>
+           	</a>			  <span>AIESEC México &copy; 2014. Todos los derechos reservados.</span>
+			</div>
+		</div> <!-- End of .col-md-10 -->
+	</footer> <!-- End of Footer -->
+
+
+  </div><!-- End of Container -->
+
+ <script data-main="js/config" src="js/require.js"></script> 
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+  <script src="js/jquery.bxslider.min.js"></script>
+
+  <script type="text/javascript">
+
+                var iframeContainer = document.getElementsByClassName("blog-iframe-container");
+                var iframe = document.getElementById("iframe");
+                document.getElementById("directory").onclick = function(e) {
+                    if (Modernizr.touch) return;
+                    e.preventDefault();
+                    // change iframe u
+                    iframe.setAttribute('src', 'alumni/directory.html');
+                };
+                document.getElementById("events").onclick = function(e) {
+                    if (Modernizr.touch) return;
+                    e.preventDefault();
+                    // change iframe url
+                    iframe.setAttribute('src', 'alumni/soon.html');
+                };
+                document.getElementById("sideDirectory").onclick = function(e) {
+                    if (Modernizr.touch) return;
+                    e.preventDefault();
+                    // change iframe url
+                    iframe.setAttribute('src', 'alumni/directory.html');
+                };
+                document.getElementById("sideEvents").onclick = function(e) {
+                    if (Modernizr.touch) return;
+                    e.preventDefault();
+                    // change iframe url
+                    iframe.setAttribute('src', 'alumni/soon.html');
+                };   
+            </script>   
+
+            <script type="text/javascript">
+                  $('.slider1').bxSlider({
+                  minSlides : 2,
+                  maxSlides : 6,
+                  slideWidth : 150,
+                  slideMargin : 40,
+                  ticker : true,
+                  speed : 50000
+                  });
+
+
+            </script>       
+
+  </body>
+</html>

@@ -1,0 +1,355 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201412 will be lost/reset.
+# Last config file used to build this data file was /home/wwwaiese/tmp/awstats/awstats.academy.aiesec.org.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2015                
+POS_TIME 2685                
+POS_VISITOR 8066                
+POS_DAY 9315                
+POS_DOMAIN 3442                
+POS_LOGIN 3825                
+POS_ROBOT 3980                
+POS_WORMS 4235                
+POS_EMAILSENDER 4366                
+POS_EMAILRECEIVER 4509                
+POS_SESSION 9698                
+POS_SIDER 9886                
+POS_FILETYPES 4644                
+POS_DOWNLOADS 4834                
+POS_OS 4882                
+POS_BROWSER 4997                
+POS_SCREENSIZE 5246                
+POS_UNKNOWNREFERER 5320                
+POS_UNKNOWNREFERERBROWSER 5496                
+POS_ORIGIN 5667                
+POS_SEREFERRALS 5805                
+POS_PAGEREFS 5960                
+POS_SEARCHWORDS 6179                
+POS_KEYWORDS 6331                
+POS_MISC 2348                
+POS_ERRORS 6390                
+POS_CLUSTER 3681                
+POS_SIDER_404 6504                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150101010054 109 22389 10152229360817
+FirstTime 0
+LastTime 20141231200253
+LastUpdate 20150101034529 109 0 108 0 0
+TotalVisits 25                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 9 14 131230
+1 24 39 1103921 10 34 366470
+2 21 21 946540 10 36 410519
+3 3 18 445872 8 21 356462
+4 0 1 2726 10 27 362552
+5 0 1 253287 14 21 232952
+6 3 18 268891 6 24 224506
+7 0 1 2726 13 25 353941
+8 22 22 964111 5 5 251605
+9 5 19 200577 10 61 611490
+10 0 0 0 8 38 306818
+11 1 1 12247 10 14 525895
+12 22 22 959101 5 13 79730
+13 10 39 677960 13 79 1084062
+14 3 21 460840 17 59 1123811
+15 0 0 0 15 21 492696
+16 0 1 253287 34 43 1270276
+17 0 0 0 18 18 346703
+18 42 42 1893080 13 18 356847
+19 12 73 719681 9 64 890551
+20 5 33 296587 13 64 933953
+21 14 50 1485552 11 98 1266788
+22 0 1 2726 11 26 403669
+23 8 38 905087 8 68 834621
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+fr 126 126 5646634
+mx 20 107 1467966
+br 17 66 1151731
+us 13 83 1918247
+cl 5 19 200577
+in 5 20 459215
+de 4 19 463443
+pe 3 17 187261
+ua 2 2 24808
+pl 0 1 81630
+id 0 1 253287
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 210 1320680 20141231131707 0
+spider 95 3581957 20141231183937 0
+bot[\s_+:,\.\;\/\\-] 36 2035089 20141231230540 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 25 38368 0 0
+css 203 886321 0 0
+png 35 4214526 0 0
+html 152 6136071 0 0
+js 27 69308 0 0
+gif 1 23997 0 0
+otf 18 486208 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 101
+linuxandroid 39
+winxp 166
+Unknown 6
+linux 18
+winvista 54
+win7 77
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 14
+msie6.0 127
+android 39
+chrome39.0.2171.95 139
+safari7.1.2 18
+firefox34.0 17
+msie9.0 8
+firefox12.0 20
+Unknown 6
+firefox24.0 32
+firefox3.5 1
+safari 18
+firefox35.0 1
+safari7.1 17
+chrome39.0.2171.71 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141229215949
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141229215949
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 135 150
+From1 0 0
+From2 7 8
+From3 4 19
+From4 49 284
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://prodvigator.ua/keywords/index 3 18
+https://www.linkedin.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 2 17699
+406 8 1808
+404 528 6236736
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 26
+/www.johnstonbuilders.com/ 3 -
+/www.sunvalleygraffitibusters.org/ 3 -
+/js/poshytip-1.1/src/tip-yellow/tip-yellow.css 27 http://prodvigator.ua/keywords/index
+/robots.txt 33 -
+/js/tabs.js 40 http://prodvigator.ua/keywords/index
+/js/jquery.nivo.slider.js 40 http://prodvigator.ua/keywords/index
+/js/poshytip-1.1/src/css/css/ 2 -
+/js/superfish-1.4.8/js/css/ 2 -
+/js/poshytip-1.1/src/css/ 1 -
+/js/jquery.isotope.min.js 40 http://prodvigator.ua/keywords/index
+/www.sedonacreativelife.com/ 2 -
+/js/superfish-1.4.8/js/superfish.js 40 http://prodvigator.ua/keywords/index
+/js/custom.js 40 http://prodvigator.ua/keywords/index
+/js/tweet/css/ 2 -
+/www.sweetheartmtn.com/ 3 -
+/js/poshytip-1.1/src/jquery.poshytip.min.js 42 http://prodvigator.ua/keywords/index
+/js/modernizr-2.5.3.min.js 36 http://prodvigator.ua/keywords/index
+/js/css3-mediaqueries.js 40 http://prodvigator.ua/keywords/index
+/js/tweet/jquery.tweet.js 40 http://prodvigator.ua/keywords/index
+/js/css/css/ 2 -
+/js/superfish-1.4.8/js/hoverintent.js 8 -
+/js/css/index.css 2 -
+/js/superfish-1.4.8/js/supersubs.js 40 http://prodvigator.ua/keywords/index
+/js/css/ 3 -
+/js/superfish-1.4.8/js/hoverIntent.js 32 http://prodvigator.ua/keywords/index
+/img/Videos.png 5 http://academy.aiesec.org.mx/curso.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+62.210.91.168 63 63 2807014 20141229021712
+62.210.78.209 42 42 1893080 20141228185142
+195.154.181.152 21 21 946540 20141220085544
+177.227.26.176 11 30 704763 20141229212409
+99.168.99.30 6 35 633133 20141219231255
+177.225.44.207 6 36 446968 20141221193125
+200.104.69.253 5 19 200577 20141227095112
+189.203.218.111 5 20 459215 20141218135531
+72.30.198.15 5 32 293861 20141231200253
+122.161.32.199 5 20 459215 20141218234337
+189.186.92.10 3 18 445872 20141230034912
+190.118.255.53 3 17 187261 20141219065214
+189.203.219.195 3 18 1096 20141218192326
+201.160.164.212 3 17 187261 20141223012131
+189.241.161.249 3 17 187261 20141230131526
+187.208.24.13 3 17 187261 20141223142740
+148.251.154.5 3 18 445872 20141217213204
+66.42.224.2 2 2 31484 20141218135619
+159.224.160.164 1 1 12247 20141219110135
+37.57.231.112 1 1 12561 20141227124933
+5.9.53.251 1 1 17571 20141223084638
+78.88.54.243 0 1 81630 
+114.121.152.242 0 1 253287 
+173.252.120.112 0 1 14840 
+66.220.156.119 0 1 81630 
+173.252.120.114 0 1 253287 
+157.55.39.48 0 3 8178 
+173.252.100.112 0 1 253287 
+173.252.120.113 0 1 253287 
+157.55.39.49 0 1 2726 
+157.55.39.187 0 3 8178 
+157.55.39.188 0 1 2726 
+66.220.156.117 0 1 81630 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20141217 9 53 1079005 3
+20141218 15 60 951010 4
+20141219 28 57 1559314 4
+20141220 42 43 2146367 2
+20141221 3 20 269223 1
+20141222 0 1 81630 0
+20141223 7 36 645380 3
+20141224 0 1 81630 0
+20141226 0 2 84356 0
+20141227 6 21 215864 2
+20141228 42 45 1901258 1
+20141229 32 53 1907316 2
+20141230 6 37 638585 2
+20141231 5 32 293861 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+2mn-5mn 1
+0s-30s 18
+30s-2mn 4
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/curso.html 86 4315222 0 0
+/js/info.php 23 25208 0 17
+/tour.html 19 958208 1 0
+/fonts/Nexa-Bold.otf 18 486208 1 0
+/ 17 263565 11 1
+/update/ 15 183705 7 6
+/submission/ 9 113049 3 1
+/about.html 6 302322 2 0
+/busqueda.php 1 12220 0 0
+/js/tourlist.php 1 940 0 0
+END_SIDER

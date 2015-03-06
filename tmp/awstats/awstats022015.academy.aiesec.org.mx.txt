@@ -1,0 +1,406 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /home/wwwaiese/tmp/awstats/awstats.academy.aiesec.org.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2015                
+POS_TIME 2674                
+POS_VISITOR 9354                
+POS_DAY 11143               
+POS_DOMAIN 3450                
+POS_LOGIN 3985                
+POS_ROBOT 4140                
+POS_WORMS 4424                
+POS_EMAILSENDER 4555                
+POS_EMAILRECEIVER 4698                
+POS_SESSION 11744               
+POS_SIDER 11933               
+POS_FILETYPES 4833                
+POS_DOWNLOADS 5024                
+POS_OS 5072                
+POS_BROWSER 5211                
+POS_SCREENSIZE 5581                
+POS_UNKNOWNREFERER 5655                
+POS_UNKNOWNREFERERBROWSER 5831                
+POS_ORIGIN 6002                
+POS_SEREFERRALS 6139                
+POS_PAGEREFS 6306                
+POS_SEARCHWORDS 6454                
+POS_KEYWORDS 6637                
+POS_MISC 2337                
+POS_ERRORS 6722                
+POS_CLUSTER 3841                
+POS_SIDER_404 6837                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301072916 1 0 9874416847135
+FirstTime 0
+LastTime 20150227165208
+LastUpdate 20150302065658 1 0 0 0 0
+TotalVisits 44                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 46                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 19 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 24 242405 10 46 664071
+1 1 6 24756 8 10 132567
+2 3 17 187261 1 17 157302
+3 0 0 0 12 23 237580
+4 1 1 12247 76 105 3862338
+5 2 7 55144 91 128 4108924
+6 2 8 136774 10 40 432251
+7 3 17 187261 10 29 328018
+8 0 2 29680 9 11 95801
+9 9 52 820708 8 61 636959
+10 5 22 971113 2 15 143942
+11 3 17 187575 5 33 397306
+12 15 64 855690 9 138 1557573
+13 5 20 475690 9 26 392139
+14 5 22 799456 14 41 359326
+15 11 29 597638 18 137 1498511
+16 7 40 356758 20 89 842341
+17 8 40 995584 39 73 2102943
+18 9 30 673806 8 88 1186001
+19 4 10 115108 7 13 184883
+20 11 44 790574 7 111 1140428
+21 4 5 106628 74 106 3847813
+22 8 26 561400 3 61 733605
+23 7 24 313158 6 52 497554
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+mx 41 187 3064276
+ma 19 38 692175
+us 17 86 1784961
+pt 7 25 560304
+ca 7 22 477882
+de 5 5 143243
+ph 4 18 188671
+ua 3 3 47703
+eg 3 17 187261
+lv 3 17 187575
+ro 3 17 187261
+mu 3 17 187261
+br 3 17 187261
+bo 3 18 445872
+sn 3 17 187261
+gr 2 16 186165
+cn 1 1 17571
+gb 1 1 12247
+md 0 1 253287
+hu 0 1 81630
+pe 0 2 334917
+ve 0 1 81630
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 387 13735291 20150228215001 0
+googlebot 182 1370773 20150227231041 0
+spider 20 568348 20150214140846 0
+msnbot 1 0 20150221011317 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 52 56524 0 0
+css 308 1453194 0 0
+png 58 5801042 0 0
+html 50 1181118 0 0
+js 26 70466 0 0
+gif 7 143982 0 0
+otf 26 790088 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 35
+blackberry 1
+winxp 2
+winlong 34
+linux 18
+winvista 141
+win7 166
+macosx 123
+Unknown 7
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 19
+safari7.0 21
+chrome37.0.2062.117 18
+chrome40.0.2214.94 57
+blackberry 1
+chrome40.0.2214.115 54
+chrome34.0.1847.137 3
+chrome40.0.2214.111 184
+firefox3.5.2 1
+msie8.0 1
+chrome39.0.2171.65 2
+mozilla 39
+msie7.0 1
+msie9.0 15
+Unknown 7
+safari8.0.3 20
+chrome40.0.2214.93 27
+firefox35.0 58
+chrome19.0.1084.52 1
+chrome30.0.0.0 17
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150222133849
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150222133849
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 20
+From1 0 0
+From2 20 26
+From3 0 0
+From4 96 481
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 19 25
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+aiesec+igip 1
+aiesec+academy 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+aiesec 2
+igip 1
+academy 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 1 17104
+406 13 2938
+404 830 9803960
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 32
+/www.johnstonbuilders.com/ 1 -
+/robots.txt 66 -
+/www.sunvalleygraffitibusters.org/ 1 -
+/js/poshytip-1.1/src/tip-yellow/tip-yellow.css 57 http://academy.aiesec.org.mx/tour.html
+/admin.php 1 -
+/update//index.php 2 -
+/update//components/com_jdownloads/jdownloads.js 1 -
+/js/jquery.isotope.min.js 62 http://academy.aiesec.org.mx/tour.html
+/update/index.html+++++++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8 1 http://academy.aiesec.org.mx/update/index.html+++++++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8
+/customer/account/login 1 http://academy.aiesec.org.mx/customer/account/login
+/js/modernizr-2.5.3.min.js 57 http://academy.aiesec.org.mx/tour.html
+//images/stories/up.gif 1 -
+/submission//images/stories/up.gif 1 -
+/img/Videos.png 14 http://academy.aiesec.org.mx/tour.html
+/js/tabs.js 61 http://academy.aiesec.org.mx/tour.html
+/js/jquery.nivo.slider.js 63 http://academy.aiesec.org.mx/tour.html
+/update//wp-content/plugins/showbiz/js/admin.js 1 -
+/www.sedonacreativelife.com/ 3 -
+/administrator/index.php 1 -
+/js/superfish-1.4.8/js/superfish.js 60 http://academy.aiesec.org.mx/tour.html
+/js/custom.js 63 http://academy.aiesec.org.mx/tour.html
+/index.php/checkout/cart/ 1 http://academy.aiesec.org.mx/index.php/checkout/cart/
+/www.sweetheartmtn.com/ 1 -
+/js/poshytip-1.1/src/jquery.poshytip.min.js 62 http://academy.aiesec.org.mx/tour.html
+/js/css3-mediaqueries.js 61 http://academy.aiesec.org.mx/tour.html
+/js/tweet/jquery.tweet.js 61 http://academy.aiesec.org.mx/tour.html
+/js/superfish-1.4.8/js/hoverintent.js 1 -
+/js/superfish-1.4.8/js/supersubs.js 63 http://academy.aiesec.org.mx/tour.html
+/update//wp-content/plugins/revslider/js/settings.js 1 -
+/wp-login.php 1 -
+/submission/index.html+++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8 1 http://academy.aiesec.org.mx/submission/index.html+++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8
+/js/superfish-1.4.8/js/hoverIntent.js 59 http://academy.aiesec.org.mx/tour.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 46
+196.12.203.30 14 32 584451 20150213092047
+189.170.35.74 8 27 603313 20150202203334
+174.117.106.110 7 22 477882 20150211122711
+148.241.97.245 7 41 327376 20150209121606
+84.91.250.187 7 25 560304 20150212185603
+187.139.138.74 7 25 560304 20150208225948
+189.234.237.227 5 22 288350 20150219233532
+161.253.120.101 5 20 459215 20150206170250
+41.137.35.130 5 6 107724 20150212222232
+201.124.216.139 4 19 446968 20150216143243
+119.95.224.158 4 18 188671 20150209162722
+190.129.127.217 3 18 445872 20150220094002
+84.237.203.229 3 17 187575 20150226112201
+41.237.189.234 3 17 187261 20150211072243
+159.224.160.164 3 3 47703 20150226150033
+41.83.218.96 3 17 187261 20150202165659
+86.126.114.12 3 17 187261 20150209021816
+148.204.58.32 3 18 445872 20150221103914
+177.225.35.187 3 17 187261 20150214005343
+46.4.112.81 3 3 42379 20150222232900
+189.217.57.227 3 17 187261 20150219204621
+41.136.9.60 3 17 187261 20150215130603
+199.30.25.73 2 8 136774 20150225063052
+65.55.210.23 2 7 55144 20150215002443
+199.30.24.84 2 7 55144 20150213054134
+148.204.57.48 1 1 17571 20150221103843
+190.36.24.249 0 1 81630 
+157.56.1.39 1 14 112287 20150227165208
+212.28.72.142 0 1 253287 
+201.157.85.109 1 1 1096 20150211103409
+93.186.22.242 1 1 12247 20150226041151
+180.76.4.7 1 1 17571 20150219133027
+173.252.120.114 0 1 253287 
+157.55.39.111 0 1 2726 
+190.237.90.151 0 2 334917 
+87.202.24.30 2 16 186165 20150225090431
+199.30.24.172 2 8 56114 20150217165817
+62.165.218.204 0 1 81630 
+173.252.120.119 0 3 521414 
+199.30.24.48 2 8 63580 20150220195040
+65.55.210.48 1 6 24756 20150215014204
+66.220.158.117 0 1 14840 
+69.171.230.116 0 1 14840 
+66.220.158.118 0 1 14840 
+148.241.1.172 2 16 186165 20150205174652
+89.163.212.2 2 2 100864 20150205190923
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20150202 12 45 808145 3
+20150203 0 3 588204 0
+20150205 4 19 301869 3
+20150206 5 20 459215 1
+20150207 0 1 14840 0
+20150208 7 25 560304 1
+20150209 14 77 956595 4
+20150210 0 1 253287 0
+20150211 11 40 666239 3
+20150212 25 62 1251383 4
+20150213 3 8 56240 2
+20150214 3 18 202101 1
+20150215 6 30 267161 3
+20150216 4 19 446968 1
+20150217 2 9 137744 1
+20150219 9 40 493182 3
+20150220 5 26 509452 2
+20150221 4 20 478283 2
+20150222 3 4 295666 3
+20150223 1 1 12561 1
+20150225 4 25 404569 2
+20150226 5 19 217393 3
+20150227 1 14 112287 1
+20150228 0 1 2726 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 35
+2mn-5mn 2
+30s-2mn 4
+15mn-30mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/js/info.php 49 53704 5 29
+/fonts/Nexa-Bold.otf 26 790088 5 2
+/ 16 281136 9 5
+/update/ 16 195952 16 2
+/curso.html 8 351239 1 0
+/tour.html 5 252160 3 2
+/submission/ 4 50244 4 2
+/js/tourlist.php 3 2820 0 1
+/about.html 1 50387 1 1
+END_SIDER

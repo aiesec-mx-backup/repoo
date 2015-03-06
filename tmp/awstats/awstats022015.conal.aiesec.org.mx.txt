@@ -1,0 +1,422 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /home/wwwaiese/tmp/awstats/awstats.conal.aiesec.org.mx.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2013                
+POS_TIME 2685                
+POS_VISITOR 7616                
+POS_DAY 10497               
+POS_DOMAIN 3395                
+POS_LOGIN 3710                
+POS_ROBOT 3865                
+POS_WORMS 4083                
+POS_EMAILSENDER 4214                
+POS_EMAILRECEIVER 4357                
+POS_SESSION 11179               
+POS_SIDER 11346               
+POS_FILETYPES 4492                
+POS_DOWNLOADS 4740                
+POS_OS 4814                
+POS_BROWSER 4929                
+POS_SCREENSIZE 5351                
+POS_UNKNOWNREFERER 5425                
+POS_UNKNOWNREFERERBROWSER 5706                
+POS_ORIGIN 5941                
+POS_SEREFERRALS 6077                
+POS_PAGEREFS 6232                
+POS_SEARCHWORDS 6414                
+POS_KEYWORDS 6566                
+POS_MISC 2349                
+POS_ERRORS 6625                
+POS_CLUSTER 3566                
+POS_SIDER_404 6740                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150302000626 1 0 10274001152756
+FirstTime 20150201220916
+LastTime 20150228121419
+LastUpdate 20150302065659 1 0 0 0 0
+TotalVisits 78                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 81                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 10 65692 6 27 385045
+1 6 9 86546 2 14 156903
+2 6 31 561254 7 12 120994
+3 2 7 65281 0 2 26769
+4 0 4 0 2 10 94209
+5 4 28 512458 2 2 23624
+6 0 3 0 0 0 0
+7 0 2 0 2 6 160491
+8 3 7 42545 1 10 946501
+9 2 7 19279 1 4 44588
+10 1 4 64683 1 4 41443
+11 14 75 4176210 6 8 94496
+12 22 97 1996528 8 33 339320
+13 9 56 1196299 6 10 109272
+14 7 31 588514 2 10 118120
+15 1 1 707 0 4 47248
+16 2 4 20862 2 8 82886
+17 3 10 91433 1 11 121084
+18 4 8 40525 0 8 94496
+19 12 51 588634 6 21 245391
+20 4 11 141508 4 27 495815
+21 12 41 765943 9 12 121287
+22 39 201 4370773 18 33 356252
+23 2 5 18950 2 8 65067
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+mx 106 474 11131109
+us 36 116 1767201
+br 8 45 1098666
+gt 4 44 0
+ar 4 22 547121
+kr 1 1 27472
+ca 1 1 6007
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 50 1479068 20150226203137 0
+bot[\s_+:,\.\;\/\\-] 14 285021 20150213202137 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 55 834881 0 0
+png 340 2870498 0 0
+ttf 46 2635072 0 0
+pdf 1 1674096 0 0
+woff 24 1740308 0 0
+php 8 28980 0 0
+html 82 542482 0 0
+jpg 80 3699536 0 0
+js 64 385988 0 0
+gif 3 165735 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/booklet.pdf 2 12 2511144
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 90
+linuxandroid 72
+winxp 5
+Unknown 77
+winvista 148
+linux 24
+win7 299
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 5
+chrome40.0.2214.115 32
+chrome40.0.2214.94 161
+firefox10.0 2
+chrome28.0.1500.94 27
+chrome40.0.2214.111 153
+chrome26.0.1410.58 22
+iphone 2
+mozilla 46
+firefox6.0 48
+chrome27.0.1453 22
+safari8.0.2 5
+safari8.0 31
+chrome29.0.1547.66 1
+safari7.0.5 2
+msie9.0 4
+firefox36.0 23
+chrome31.0.1650.59 23
+chrome40.0.2214.93 23
+safari8.0.3 40
+Unknown 33
+safari 5
+firefox35.0 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+visionutils/0.2 20150215124000
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150228003712
+Python-urllib/2.7 20150227035822
+Mozilla/4.0_(compatible;) 20150225174721
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+visionutils/0.2 20150215124000
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150228003712
+Python-urllib/2.7 20150227035822
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 88 203
+From1 0 0
+From2 1 1
+From3 2 2
+From4 69 509
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://l.facebook.com/lsr.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 13 105438
+404 205 2421460
+301 1 314
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 15
+/Registro/logo/favicon.png 1 -
+//components/com_community/index.html 2 -
+/apple-touch-icon-precomposed.png 8 -
+/robots.txt 27 -
+/js/html5shiv.js 2 -
+/Registro/index.php 3 -
+/conal/registro/ 1 -
+/apple-touch-icon.png 10 -
+/logo/logoconalY.png 97 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/css/font/Gotham-Book.woff 25 http://conal.aiesec.org.mx/
+/teamconal/font/Gotham-Black.woff 1 http://conal.aiesec.org.mx/teamconal/css/freelancer.css
+/apple-touch-icon-120x120.png 1 -
+/css/font/Gotham-Black.woff 25 http://conal.aiesec.org.mx/
+/Registro/informacion.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 81
+189.130.94.44 11 32 602442 20150207013517
+131.178.201.50 11 60 1650208 20150215124210
+66.102.7.180 11 23 114272 20150226192700
+201.141.133.232 9 46 566189 20150218213726
+187.176.117.64 8 32 317016 20150204224433
+66.102.7.187 6 10 52586 20150227143517
+189.251.122.85 5 23 553128 20150212211656
+189.130.93.14 4 6 32876 20150217175026
+189.225.45.152 4 23 551545 20150203223822
+177.246.44.241 4 22 547121 20150216142951
+189.166.49.39 4 23 551545 20150208225311
+200.68.128.14 4 22 547121 20150208133621
+200.53.151.196 4 36 2225641 20150205111914
+187.202.189.246 4 5 28452 20150207191522
+177.246.80.56 4 23 551545 20150204225716
+189.209.104.249 4 22 547121 20150215223125
+187.177.92.79 4 23 551545 20150202222443
+66.102.7.194 4 10 50572 20150226120210
+187.163.205.238 4 23 551545 20150226114055
+201.144.5.2 4 23 551545 20150226115504
+201.141.150.232 4 23 551545 20150215223711
+201.141.149.168 4 23 551545 20150202222312
+168.234.54.29 3 18 0 20150216023255
+66.102.6.183 3 12 306251 20150223214211
+66.102.6.165 3 10 175339 20150224215735
+66.220.158.113 0 1 11252 
+210.121.169.145 1 1 27472 20150227035822
+173.252.120.112 0 1 54252 
+173.252.74.119 0 1 165078 
+187.171.220.60 2 3 16438 20150211015053
+157.55.39.103 0 3 8892 
+187.190.140.141 2 2 6007 20150212181929
+189.234.67.213 0 2 5454 
+199.30.25.189 2 2 138112 20150213212207
+201.174.23.59 1 1 707 20150225154110
+54.68.97.166 1 1 36411 20150215015100
+189.228.81.40 1 1 5555 20150226231700
+66.220.156.115 0 1 10312 
+173.252.112.112 0 1 10771 
+173.252.102.117 0 1 4069 
+66.102.6.174 1 6 96824 20150222114820
+189.167.153.69 1 1 6007 20150203185815
+54.191.212.73 1 1 2964 20150222122241
+66.220.156.113 0 1 10312 
+173.252.102.112 0 3 17062 
+173.252.102.113 0 1 3377 
+173.252.73.118 0 1 11252 
+69.171.237.116 0 1 54252 
+173.252.102.118 0 1 3009 
+66.220.158.117 0 1 11252 
+69.171.237.117 0 1 54252 
+173.252.102.119 0 2 65795 
+69.171.237.114 0 1 54252 
+187.232.33.142 1 9 111881 20150228121419
+173.252.110.119 0 1 11252 
+189.139.212.64 1 1 6007 20150216001809
+189.217.156.120 1 5 37809 20150220030837
+201.96.230.125 0 5 10446 
+142.4.218.201 1 1 6007 20150205050015
+54.187.7.109 1 2 10559 20150204203827
+189.167.65.248 1 1 6007 20150202214523
+66.249.83.253 1 2 10431 20150226002905
+173.252.110.118 0 1 11252 
+157.55.39.200 0 1 2964 
+69.171.235.116 0 1 2672 
+66.220.156.119 0 1 10312 
+189.217.140.184 1 1 6007 20150216011505
+173.252.112.114 0 1 54252 
+192.100.230.152 1 1 6007 20150205180127
+173.252.88.88 1 1 6007 20150215123956
+200.12.42.45 1 23 0 20150203111737
+173.252.113.118 0 1 54252 
+54.69.76.86 1 1 2964 20150219121643
+132.254.101.168 1 1 6007 20150213125150
+189.193.90.175 1 2 10431 20150208080442
+189.219.50.76 3 27 506451 20150203054023
+173.252.73.117 0 2 22504 
+66.220.158.112 0 2 22504 
+200.6.242.243 0 3 0 
+173.252.73.116 0 1 11252 
+173.252.74.113 0 1 11252 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150201 2 2 7121 2
+20150202 12 53 1190218 5
+20150203 14 63 1108131 8
+20150204 18 86 1435520 5
+20150205 7 38 3100810 4
+20150206 1 2 10431 1
+20150207 6 8 44890 2
+20150208 9 52 1338739 3
+20150209 1 3 10431 1
+20150210 1 4 21683 1
+20150211 3 7 92373 2
+20150212 7 29 571685 2
+20150213 4 5 154550 3
+20150214 1 2 17259 1
+20150215 22 119 2960058 6
+20150216 10 39 663245 6
+20150217 3 19 38121 2
+20150218 9 47 570613 2
+20150219 2 3 13395 2
+20150220 2 8 58552 2
+20150221 0 2 15676 0
+20150222 2 4 24647 2
+20150223 6 34 589681 4
+20150224 1 3 64683 1
+20150225 1 3 707 1
+20150226 13 54 1145945 7
+20150227 2 3 37903 2
+20150228 1 11 127557 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+2mn-5mn 2
+0s-30s 75
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 79 468546 63 47
+/font/Gotham-Black.ttf 22 1242936 2 8
+/font/Gotham-Book.ttf 22 1254024 2 11
+/font/fontawesome-webfont.woff 20 1591440 1 2
+/login.php 4 11856 2 2
+/Registro/fonts/Gotham-Bold.woff 2 54944 1 1
+/teamconal/ 2 72822 1 1
+/teamconal/fonts/fontawesome-webfont.woff 1 65452 0 0
+/Registro/fonts/Gotham-Black.woff 1 28472 0 1
+/Registro/fonts/Gotham-Black.ttf 1 69052 1 0
+/Registro/ 1 1114 1 1
+/Registro/fonts/Gotham-Bold.ttf 1 69060 0 1
+/editar2.php 1 707 1 1
+/listados.php 1 4855 1 1
+/editar1.php 1 5555 1 1
+/index.php 1 6007 1 0
+END_SIDER

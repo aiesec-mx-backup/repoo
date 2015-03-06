@@ -1,0 +1,3 @@
+[14-Jan-2015 12:53:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'newdbVivaMexico.db.12058720.hostedresource.com' (25) in /home/wwwaiese/public_html/vivamexico/php/connection.php on line 3
+[14-Jan-2015 12:53:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wwwaiese/public_html/vivamexico/manage/ep/edit.php on line 11
+[14-Jan-2015 12:53:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wwwaiese/public_html/vivamexico/manage/ep/edit.php on line 193

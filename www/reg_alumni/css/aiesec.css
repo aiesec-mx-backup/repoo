@@ -1,0 +1,28 @@
+/* LOGIN */
+.primary-btn { background-color:#003399; }
+.login-form { padding:20px; background-color:#003399; border-radius:20px; margin-top:80px; }
+.login-form .control-group { position:relative; }
+.login-form .control-group i { position:absolute; right:12px; padding:10px 12px;} 
+.login-form p { color:#FFF; margin-top:10px; }
+.login-form p:last-child a { color:#FFF; text-decoration:underline;}
+
+.azul-ai { color:#003399; }
+	
+/* GENERAL */
+header a img:first-child { width:45%; height:auto; }
+header img:last-child { width:10%; height:auto; }
+
+.relativo { position:relative; }
+.nav-tabs > li > a { font-size:18px; }
+.tab-content { padding:15px; border-left:1px solid #DDDDDD; border-right:1px solid #DDDDDD; border-bottom:1px solid #DDDDDD;  }
+	.tab-content p { font-size:16px; }
+p.obligatorios { position:absolute; top:5px; right:10px; font-size:12px; font-style:italic; }
+.form-control { margin-bottom: 10px; }
+.input-group { margin-bottom: 15px; }
+.panel-group { margin-bottom:15px; }
+
+.maestria { visibility:hidden; }
+.doctorado { visibility:hidden; }
+.mesa { visibility:hidden; }
+
+.btn-group {  }

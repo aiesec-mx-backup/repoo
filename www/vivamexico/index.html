@@ -1,0 +1,859 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Viva Mexico| Home</title>
+		<link rel="shortcut icon" href="images/VMex_azul.ico">
+		<link href="css/style.css" rel='stylesheet' type='text/css' />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script type="application/x-javascript"> 
+			addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+		</script>
+		<script src="js/jquery.min.js"></script>
+		<!---script---->
+		<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" />
+		<script src="js/jquery.bxslider.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function(){
+					$('.bxslider').bxSlider({
+						 auto: true,
+ 						 autoControls: true,
+						 minSlides: 4,
+						 maxSlides: 4,
+						 slideWidth:450,
+						 slideMargin: 10
+					});
+				});
+			</script>
+		<!---//script---->
+		<!---smoth-scrlling---->
+			<script type="text/javascript">
+				$(document).ready(function(){
+									$('a[href^="#"]').on('click',function (e) {
+									    e.preventDefault();
+									    var target = this.hash,
+									    $target = $(target);
+									    $('html, body').stop().animate({
+									        'scrollTop': $target.offset().top
+									    }, 1000, 'swing', function () {
+									        window.location.hash = target;
+									    });
+									});
+								});
+				</script>
+		<!---//smoth-scrlling---->
+		<!----start-top-nav-script---->
+		<script type="text/javascript" src="js/flexy-menu.js"></script>
+		<script type="text/javascript">$(document).ready(function(){$(".flexy-menu").flexymenu({speed: 400,type: "horizontal",align: "right"});});</script>
+		<!----//End-top-nav-script---->
+		<!---webfonts---->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+		<!---webfonts---->
+		<!--start slider -->
+	    <link rel="stylesheet" href="css/fwslider.css" media="all">
+		<script src="js/jquery-ui.min.js"></script>
+		<script src="js/css3-mediaqueries.js"></script>
+		<script src="js/fwslider.js"></script>
+		<!--end slider -->
+		<!---calender-style---->
+		<link rel="stylesheet" href="css/jquery-ui.css" />
+		<!---//calender-style---->
+		<!--modal window {-->
+		<link type='text/css' href='css/basicModal.css' rel='stylesheet' media='screen' />
+		<script type='text/javascript' src='js/jquery.simplemodal.js'></script>
+		<script type='text/javascript'>
+		jQuery(function ($) {
+			//popup inicial
+			$('#start-modal-content').modal();
+		
+			// video
+			$('#video-div .boton-video').click(function (e) {
+				$('#video-modal-content').modal();
+				return false;
+			});
+			$('#ss-div .boton-ss').click(function (e) {
+				$('#ss-modal-content').modal();
+				return false;
+			});
+		});
+
+	</script>
+	<!--} modal window-->
+	</head>
+	<body>
+	<!-- modal content -->
+		<div id="start-modal-content" style="display:none;">
+			<center>
+					<iframe width="640" height="360" src="//www.youtube.com/embed/qWcKpFp5HAA?rel=0" frameborder="0" allowfullscreen></iframe>
+			</center>
+		</div>
+		<!-- preload the images -->
+		<div style='display:none'><img src='images/x.png' alt='' /></div>
+	<!-- end modal content -->
+
+		<!----start-wrap---->
+			<!----start-top-header----->
+			<div class="top-header" id="header">
+				<div class="wrap">
+				<div class="top-header-left">
+					<ul>
+						<li><a href="#"></a></li>
+						<li><a href="#"></a></li>
+						<li><p>You want to know more about AIESEC? </p>&nbsp;<a class="reg" href="http://aiesec.org.mx"> Click here</a></li>
+						<div class="clear"> </div>
+					</ul>
+				</div>
+				<div class="top-header-right">
+					<ul>
+						<li><a class="face" href="https://www.facebook.com/AIESECMX" target="_blank"><span> </span></a></li>
+						<li><a class="twit" href="https://twitter.com/AIESECMexico" target="_blank"><span> </span></a></li>
+						<div class="clear"> </div>
+					</ul>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			</div>
+			<!----//End-top-header----->
+			<!---start-header---->
+			<div class="header">
+				<div class="wrap">
+				<!--- start-logo---->
+				<div class="logo">
+					<a href="index.html"><img src="images/logo.png" title="¡Viva Mexico!"/></a>
+				</div>
+				<!--- //End-logo---->
+				<!--- start-top-nav---->
+				<div class="top-nav">
+						<ul class="flexy-menu thick orange">
+							<li class="active"><a href="index.html">Why Mexico?</a></li>
+							<!--<li><a href="destinations.html">Destinations</a>
+								<ul>
+								<li><a href="#">Dropdown item</a></li>
+								<li><a href="#">Dropdown item</a></li>
+								<li><a href="#">Dropdown item</a>
+									<ul>
+										<li><a href="#">Dropdown item</a></li>
+										<li><a href="#">Dropdown item</a>
+											<ul>
+												<li><a href="#">Dropdown item</a></li>
+												<li><a href="#">Dropdown item</a></li>
+												<li><a href="#">Dropdown item</a></li>
+												<li><a href="#">Dropdown item</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Dropdown item</a></li>
+										<li><a href="#">Dropdown item</a></li>
+									</ul>
+								</li>
+								<li><a href="#">Dropdown item</a></li>
+								<li><a href="#">Dropdown item</a></li>
+							</ul>
+							</li>-->
+							<li><a href="igcdp.html">Volunteer<br>Internships</a>
+								<ul>
+								<li><a href="igcdp.html">National Projects</a>
+									<ul>
+										<li><a href="igcdp/sl.html">Sharing Languages</a></li>
+										<li><a href="igcdp/mlb.html">My Language Buddy</a></li>
+										<li><a href="igcdp/imporph.html">Impacting: Orphanages</a></li>
+										<li><a href="igcdp/impsc.html">Impacting: Summer Camps</a></li>
+										<li><a href="igcdp/gls.html">Global Leadership School</a></li>
+										<li><a href="igcdp/stu.html">Social Start Up</a></li>
+									</ul>
+								</li>
+								<li><a href="http://bit.ly/mexicosearchtool" target="_blank">Search TN Tool</a></li>
+								<li><a href="interestgcdp.html">Are you interested?</a></li>
+								</ul>
+							</li>
+							<li><a href="igip.html">Professional<br>Internships</a>
+								<ul>
+								<li><a href="igip.html">National Partners</a></li>
+								<li><a href="searchtn.php?t=Pro">Search TN Tool</a></li>
+								<li><a href="interest.html">Are you interested?</a></li>
+								</ul>
+							</li>
+							<li><a href="GC.html">GCDP EPs</a>
+								<ul>
+								<li><a href="GC.html">Profiles</a></li>
+								<li><a href="searchep.php?t=Vol">EP Search Tool</a></li>
+								</ul>
+							</li>
+							<li><a href="GT.html">GIP EPs</a>
+								<ul>
+								<li><a href="GT.html">Profiles</a></li>
+								<li><a href="searchep.php?t=Pro">EP Search Tool</a></li>
+								</ul>
+							</li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+						<!--<div class="search-box">
+							<div id="sb-search" class="sb-search">
+								<form>
+									<input class="sb-search-input" placeholder="Enter your search term..." type="search" name="search" id="search">
+									<input class="sb-search-submit" type="submit" value="">
+									<span class="sb-icon-search"> </span>
+								</form>
+							</div>
+						</div>-->
+						<!----search-scripts---->
+						<script src="js/modernizr.custom.js"></script>
+						<script src="js/classie.js"></script>
+						<script src="js/uisearch.js"></script>
+						<script>
+							new UISearch( document.getElementById( 'sb-search' ) );
+						</script>
+						<!----//search-scripts---->
+				</div>
+				<!--- //End-top-nav---->
+				<div class="clear"> </div>
+			</div>
+			<!---//End-header---->
+		</div>
+		<!----start-images-slider---->
+		<div class="web/images-slider">
+			<!-- start slider -->
+		    <div id="fwslider">
+		        <div class="slider_container">
+					<!-- /Duplicate to create more slides -->
+		            <div class="slide">
+		                <img src="images/SLIDE-HOME0.jpg" alt=""/>
+		                <div class="slide_content">
+		                     <div class="slide_content_wrap">
+		                        <!-- Text title -->
+		                        <h4 class="title">Are you an official mexican trainee</h4>
+		                        <!-- /Text title -->
+		                        <!-- Text description -->
+		                        <p class="description">Know more about the requirements here.</p>
+		                        <!-- /Text description -->
+		                        <div class="slide-btns description">
+		                        	<ul>
+		                        		<li><a class="minfo" href="http://traineeservice.wix.com/welcomemx" target="_blank">Click Here</a></li>
+		                        		<div class="clear"> </div>
+		                        	</ul>
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+		            <!--/slide -->
+		            <div class="slide"> 
+		                <!-- Slide image -->
+		                    <img src="images/SLIDE-HOME1.jpg" alt=""/>
+		                <!-- /Slide image -->
+		                <!-- Texts container -->
+		                <div class="slide_content">
+		                    <div class="slide_content_wrap">
+		                        <!-- Text title -->
+		                        <h4 class="title">Make a volunteer internships</h4>
+		                        <!-- /Text title -->
+		                        <!-- Text description -->
+		                        <p class="description">Know more about our national projects here.</p>
+		                        <!-- /Text description -->
+		                        <div class="slide-btns description">
+		                        	<ul>
+		                        		<li><a class="minfo" href="igcdp.html">More info </a></li>
+		                        		<div class="clear"> </div>
+		                        	</ul>
+		                        </div>
+		                    </div>
+		                </div>
+		                 <!-- /Texts container -->
+		            </div>
+		            <!-- /Duplicate to create more slides -->
+		            <div class="slide">
+		                <img src="images/SLIDE-HOME2.jpg" alt=""/>
+		                <div class="slide_content">
+		                     <div class="slide_content_wrap">
+		                        <!-- Text title -->
+		                        <h4 class="title">Select Mexican Talent</h4>
+		                        <!-- /Text title -->
+		                        <!-- Text description -->
+		                        <p class="description">Check our profiles and make an impact in your country selecting mexican talent.</p>
+		                        <!-- /Text description -->
+		                        <div class="slide-btns description">
+		                        	<ul>
+		                        		<li><a class="minfo" href="GC.html">More info about GCDP Eps </a></li>
+										<li><a class="minfo" href="GT.html">More info about GIP Eps</a></li>
+		                        		<div class="clear"> </div>
+		                        	</ul>
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+		            <!--/slide -->
+					<!-- /Duplicate to create more slides -->
+		            <div class="slide">
+		                <img src="images/SLIDE-HOME3.jpg" alt=""/>
+		                <div class="slide_content">
+		                     <div class="slide_content_wrap">
+		                        <!-- Text title -->
+		                        <h4 class="title">Work in Mexico</h4>
+		                        <!-- /Text title -->
+		                        <!-- Text description -->
+		                        <p class="description">Make a professional internship in a developing country.</p>
+		                        <!-- /Text description -->
+		                        <div class="slide-btns description">
+		                        	<ul>
+		                        		<li><a class="minfo" href="igip.html">More info </a></li>
+		                        		<div class="clear"> </div>
+		                        	</ul>
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+		            <!--/slide -->
+		        </div>
+		        <div class="timers"> </div>
+		        <div class="slidePrev"><span> </span></div>
+		        <div class="slideNext"><span> </span></div>
+		    </div>
+		    <!--/slider -->
+		</div>
+		<!----start-offers---->
+		<div class="offers">
+			<div class="offers-head">
+				<h3>Know more about Mexico</h3>
+				<p>Where to?, Did you know?, Traditions</p>
+			</div>
+			<!-- start content_slider -->
+			<!-- FlexSlider -->
+			 <!-- jQuery -->
+			  <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+			  <!-- FlexSlider -->
+			  <script defer src="js/jquery.flexslider.js"></script>
+			  <script type="text/javascript">
+			    $(function(){
+			      SyntaxHighlighter.all();
+			    });
+			    $(window).load(function(){
+			      $('.flexslider').flexslider({
+			        animation: "slide",
+			        animationLoop: true,
+			        itemWidth:250,
+			        itemMargin: 5,
+			        start: function(slider){
+			          $('body').removeClass('loading');
+			        }
+			      });
+			    });
+			  </script>
+			<!-- Place somewhere in the <body> of your page -->
+				 <section class="slider">
+		        <div class="flexslider carousel">
+		          <ul class="slides">
+		            <li>
+		  	    	    <img src="images/WhereTo/LCAguas.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Aguascalientes</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCCEM.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">ITESM Estado de M&eacute;xico</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCCh.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Chihuahua</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCCJ.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Ciudad Juarez</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		            <li >
+		  	    	    <img src="images/WhereTo/LCCuerna.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Cuernavaca</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCGDL.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Guadalajara</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCGTO.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Guanajuato</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCher.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Hermosillo</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		             <li >
+		  	    	    <img src="images/WhereTo/LCIPN.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">IPN</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    	 <li >
+		  	    	    <img src="images/WhereTo/LCITAM.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">ITAM</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCLEON.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Leon</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		  	    		 <li >
+		  	    	    <img src="images/WhereTo/LCMTY.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Monterrey</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCPuebla.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Puebla</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCQro.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Queretaro</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCSantafe.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Santa Fe</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCSin.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Sinaloa</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCSLP.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">San Luis Potosi</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCTabasco.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Tabasco</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCToluca.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Toluca</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCUAEMEX.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">UAEMEX</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCUDEM.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">UDEM</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCULSA.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">La Salle</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCUNAM.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">UNAM</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCUP.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">UP</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+						<li >
+		  	    	    <img src="images/WhereTo/LCVER.jpg" />
+		  	    	    <!----place-caption-info---->
+		  	    	    <div class="caption-info">
+		  	    	    	 <div class="caption-info-head">
+		  	    	    	 	<div class="caption-info-head-left">
+			  	    	    	 	<h4><a href="#">Veracruz</a></h4>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="caption-info-head-right">
+		  	    	    	 		<span> </span>
+		  	    	    	 	</div>
+		  	    	    	 	<div class="clear"> </div>
+		  	    	    	 </div>
+		  	    	    </div>
+		  	    	     <!----//place-caption-info---->
+		  	    		</li>
+		          </ul>
+		        </div>
+		      </section>
+              <!-- //End content_slider -->
+		</div>
+		<!----//End-offers---->
+		<!---start-holiday-types---->
+			<div class="holiday-types">
+				<div class="wrap">
+					<div class="holiday-type-head">
+						<h3>National Projects</h3>
+						<span>ICX GCDP is the fastest developing area in the whole of AIESEC Mexico.</span>
+					</div>
+					<div class="holiday-type-grids">
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/mlb.html';">
+							<span class="icon1"> </span>
+						</div>
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/sl.html';">
+							<span class="icon2"> </span>
+						</div>
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/imporph.html';">
+							<span class="icon3"> </span>
+						</div>
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/impsc.html';">
+							<span class="icon4"> </span>
+						</div>
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/gls.html';">
+							<span class="icon5"> </span>
+						</div>
+						<div class="holiday-type-grid" onclick="location.href='iGCDP/stu.html';">
+							<span class="icon6"> </span>
+						</div>
+						<div class="clear"> </div>
+					</div>
+				</div>
+				</div>
+		<!---//End-holiday-types---->
+		<!----//End-images-slider---->
+		<!----start-clients---->
+		<div class="clients">
+			<div class="client-head">
+				<h3>My Mexican Experience</h3>
+				<span>What customer say about us and why love Mexico!</span>
+			</div>
+			<div class="client-grids">
+				<ul class="bxslider">
+				  <li>
+				  	<p>In an AIESEC IGCDP project I spent six weeks in Mexico where my work was teaching English to young people. At the beginning I was a bit afraid of going to 
+					Mexico, which is so far and different from Hungary but now I consider this idea as one of my best decision in my life. I was absolutely satisfied with the 
+					AIESECers in Mexico: they never let us go alone or get lost and always helped us. Every weekend we were traveling to different parts of Mexico: Acapulco, 
+					Cancun, Puebla, Tlaxcala and a lot of times we spent the afternoons and nights in the center or with parties.  On the whole I had a so fantastic time in 
+					Mexico and I can’t wait to go back!</p><br><br>
+				  	<span>Georgina Szab&oacute;, Hungary</span>
+					<a href="iGCDP/mlb.html">My Language Buddy</a>
+				  </li>
+				  <li>
+				  	<p>My initial dream was so small in comparison what I have achieved during my internship in Mexico in June-August 2013 (Voyage Summer Camp in AIESEC México). 
+					Living life to the full, taking a risk, being part of a common goal, going through the stereotypes… Mexican hospitality is always in my heart.  We were amazed
+					by a virgin nature in Mexico climbing on top of volcanoes, seeing “wild jungles” like in movies. Each person in my team was unique. I met my belonged friends 
+					and I realized that there are no borders among countries and “it is all about people”. Teaching my students, supporting each other, we were parts of a big 
+					puzzle creating amazing picture, which is called “unique experience”. As a result, It makes you a real citizen of the world and you are ready to be a change.</p> 
+				  	<span>Maria Kuts, Ukraine</span>
+					<a href="iGCDP/impsc.html">Impacting Summer Camps</a>
+				  </li>
+				  <li>
+				  	<p>My name is Vinicius and in the last winter i decided to realice a practice in the city of Xalapa in Veracruz  to teach portuguese to childrens. I never 
+					imagined that an experience in Mexico was so amazing. The cultural impact is large, the Mexican culture is very different from the Brazilian, but that's 
+					what made my exchange so special. Every day I had opportunities to meet people, food, places or just a new word in Spanish. The opportunity to teach my 
+					language, my culture and my present foreign country are things that are priceless, an experience that only those who live know to value. Thanks Aiesec México 
+					for this Wanderful experience</p><br><br>
+				  	<span>Vinicius Weide Rodrigues, Brasil</span>
+					<a href="iGCDP/sl.html">Sharing Languages</a>
+				  </li>
+				  <li>
+				  	<p>I'm super satisfied with my internship in PwC CMAAS, I'm learning a great deal of new things on daily basis, improving my technical skills, learning to take 
+					responsibilities, building network of contacts etc. The team accepted me as one of them. I have a excellent working atmosphere and a great deal of support in 
+					every aspect.</p>
+				  	<span>Matea Curkovic<br>Slavonski Brod, CROATIA</span>
+					<a href="#">PWC Mexico</a>
+				  </li>
+				  <li>
+				  	<p>Currently, I am working in a company called Tech Innovations and I'm really enjoying my internship experience through AIESEC. I am working on a project to 
+					export tequila drinks to Japan. I am in constant communication with Canadian companies with whom we have alliances, laboratories, etc.. Before I was in management 
+					quality system and studied all ISO 9001 from start to finish and in Spanish. To be honest I am very happy with my Spanish, has finally improved (after 4 years of 
+					study at my university). My boss wants us to learn a lot and lets us exploit the professional world. The first thing I said was "I want to be open" and that's what 
+					he's done. So I'm very grateful to the Mexicans, I am extremely happy to be here until February. México is amazing!</p>
+				  	<span>Valeria Kachmar, Russia</span>
+					<a href="#">Tech Innovations</a>
+				  </li>
+				</ul>
+			</div>
+		</div>
+		<!----//End-clients---->
+		<!---start-subfooter---->
+		<div class="subfooter">
+			<div class="wrap">
+				<p class="copy-right">Copyright 2014 AIESEC Mexico - All rights reserved.<br>Developed by Steelerboy & Luis Sifuentes</a></p>
+				<a class="to-top" href="#header"><span> </span> </a>
+			</div>
+		</div>
+		<!---//End-subfooter---->
+		<!----//End-wrap---->
+	<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.glangels.org/"><b>michael kors black friday</b></a> <a href="http://www.healthcaretraininginstituteofamerica.com"><b>michael kors Black Friday</b></a> <a href="http://www.healthcaretraininginstituteofamerica.com"><b>michael kors Black Friday</b></a> <a href="http://www.gracestormlake.org"><b>michael kors black friday</b></a> <a href="http://www.pil-tei.com/"><b>michael kors black friday</b></a> <a href="http://stpauls.me/"><b>michael kors black friday</b></a> <a href="http://www.crossfirefencing.com/"><b>kate spade black friday</b></a> <a href="http://www.sewwenergy.com/"><b>lululemon black friday</b></a> <a href="http://www.walaser.com"><b>lululemon black friday</b></a> <a href="http://www.springhilllighting.com/"><b>lululemon cyber monday</b></a> <a href="http://www.capstonemissions.org"><b>Abercrombie and fitch black friday</b></a> <a href="http://www.ghosttowngunslingers.com"><b>bose black friday</b></a> <a href="http://www.randyarargon.com"><b>under armour black friday</b></a> <a href="http://www.gallerypropertiesofdubuque.com/"><b>victoria's secret cyber monday</b></a> <a href="https://www.insightevolutionllc.com"><b>gucci black friday</b></a> <a href="http://www.virtualarmory.com"><b>Chanel cyber monday</b></a> <a href="http://www.shawsbarbecue.com/"><b>north face cyber Monday</b></a> <a href="http://www.ngcomm.net/"><b>uggs cyber monday</b></a> <a href="http://www.waltlearning.org/"><b>north face black Friday</b></a> <a href="http://www.frankfortsunshinecenter.org"><b>uggs black Friday</b></a> <a href="http://www.planetskills.com/"><b>kate spade cyber monday</b></a> <a href="http://windcrestdairy.com/"><b>uggs cyber monday</b></a> <a href="http://www.nolongerabystander.org/"><b>beats by dre cyber Monday</b></a> <a href="http://www.riversideflowershow.info/"><b>beats by dre black Friday</b></a> <a href="http://www.planetskills.com/"><b>kate spade black friday</b></a> <a href="http://agemanagementboston.com/"><b>beats by dre black Friday</b></a> <a href="http://www.salesrecruitersnetwork.com/"><b>true religion black friday</b></a> <a href="http://www.jakespizzafairmontmn.com/"><b>michael kors black friday</b></a> <a href="http://www.greatlakesagg.net/"><b>michael kors cyber monday</b></a> <a href="http://www.inhomepetcare.com/"><b>coach cyber monday</b></a> <a href="http://www.swvanwtf.com/"><b>gucci cyber monday</b></a> <a href="http://www.ingramsoil.com/"><b>uggs black friday</b></a> <a href="http://www.orangecountyfairspeedway.net"><b>uggs black Friday</b></a> <a href="http://www.allstatepackaging.net/"><b>uggs cyber monday</b></a> <a href="http://www.dianneramponi.com/"><b>michael kors black friday</b></a> <a href="http://www.stjohnchurchnj.com/"><b>michael kors cyber monday</b></a> <a href="http://www.springhilllighting.com/"><b>lululemon black friday</b></a> <a href="http://www.petuniasbooks.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.swproj.com/"><b>Hollister cyber Monday</b></a> <a href="http://www.bikemastersmiami.com/"><b>louis vuitton cyber Monday</b></a> <a href="http://aodd.com/"><b>north face black friday</b></a> <a href="http://www.glengineering.com/"><b>coach cyber monday</b></a> <a href="http://www.waltspetro.com/"><b>lululemon cyber monday</b></a> <a href="http://www.eaglelaketri.com/"><b>michael kors black Friday</b></a> <a href="http://www.turkeycreekgolf.com/"><b>Polo Ralph Lauren cyber monday</b></a> <a href="http://www.compassinternational.net/"><b>beats by dre cyber Monday</b></a> <a href="http://muskegofest.com/"><b>nike black friday</b></a> <a href="http://www.ryanmoving.com/"><b>polo black friday</b></a> <a href="http://www.mexcla.org/"><b>michael kors black Friday</b></a> <a href="http://www.montyholding.com/"><b>uggs cyber monday</b></a> <a href="http://www.tri-state-k9.org/"><b>kate spade black friday</b></a> <a href="http://www.windworksstudio.com/"><b>black Friday beats by dre</b></a> <a href="http://www.thosepartypeopleguys.com/"><b>kate spade cyber monday</b></a> <a href="http://www.sageeventplanning.com/"><b>uggs black friday</b></a> <a href="http://www.kearsargemountaincsa.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.renscots.org/"><b>uggs cyber monday</b></a> <a href="http://www.drsimonbecker.com/"><b>Ray Ban cyber Monday</b></a> <a href="http://www.lsyc.info/"><b>lululemon cyber monday</b></a> <a href="http://rawtaunton.com/"><b>jordan cyber monday</b></a> <a href="http://www.bikemastersmiami.com/"><b>louis vuitton black Friday</b></a> <a href="http://www.middleboroughtv.com/"><b>uggs cyber monday</b></a> <a href="http://www.accordpowerinc.com/"><b>lululemon cyber monday</b></a> <a href="http://www.rcitech.com/"><b>prada black friday</b></a> <a href="http://newhollandfarmersmarket.org/"><b>michael kors black Friday</b></a> <a href="http://www.belgianamerican.org/"><b>beats by dre black Friday</b></a> <a href="http://www.delegatewilt.com/"><b>lululemon cyber monday</b></a> <a href="http://www.youthresourcebank.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.bradgoodmansolutions.com/"><b>michael kors cyber Monday</b></a> <a href="http://www.newenergyfarms.com/"><b>tod's black friday</b></a> <a href="http://www.security21.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.edendayspasalon.com/"><b>black Friday beats by dre</b></a> <a href="http://www.agapenorth.com/"><b>michael kors black Friday</b></a> <a href="http://www.mostpopular-term-papers.com/"><b>Juicy Couture cyber monday</b></a> <a href="http://www.platinumrr.com/"><b>kate spade black friday</b></a> <a href="http://www.nueve11music.com"><b>Uggs black friday</b></a> <a href="http://bucksonmayflower.com/"><b>uggs cyber Monday</b></a></div></body>
+	<!--Google Analytics-->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-34785404-2', 'aiesec.org.mx');
+  ga('send', 'pageview');
+
+</script>
+<!-- END Google Analytics-->
+</html>
+

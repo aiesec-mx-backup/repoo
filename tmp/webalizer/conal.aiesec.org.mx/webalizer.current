@@ -1,0 +1,250 @@
+# Webalizer V2.23-05 Incremental Data - 03/03/2015 22:36:52
+2015 3 3 22 36 52
+57 42 15 24 4 7 982235 5 5 0
+7 2 27 2 3
+0 0 0 0 0 0
+50 39 914244 9 4 4
+7 3 67991 7 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+25 23 575169 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 10431 1
+1 1 54252 0
+0 0 0 0
+0 0 0 0
+2 2 10431 1
+2 1 10312 0
+0 0 0 0
+2 0 0 0
+15 12 244761 1
+2 0 23624 0
+0 0 0 0
+1 0 0 0
+1 1 6007 1
+2 0 23624 0
+2 0 23624 0
+0
+0
+0
+42
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 3 7957688122020821609 41522 0 0
+/images/next.png
+0 2 7165897045451879216 6680 0 0
+/images/realidad.png
+0 2 3345745044344944685 22894 0 0
+/js/code.js
+0 2 4049018639494414336 962 0 0
+/images/tra.png
+0 1 7308620316236145408 3009 0 0
+/images/conalh.png
+0 2 0 6388 0 0
+/js/coutnDawn.js
+0 2 7205759403792793600 9104 0 0
+/images/trm.png
+0 1 1952804398 3377 0 0
+/images/btbook.png
+0 1 3543542564880469060 3923 0 0
+/images/logoaiesec.png
+0 2 3472607610886042933 21542 0 0
+/css/style.css
+0 2 34006560 12016 0 0
+/images/Favicon.png
+0 3 0 13272 0 0
+/font/Gotham-Book.ttf
+0 2 0 69668 0 0
+/images/conal.png
+0 2 0 8138 0 0
+/images/ags.jpg
+0 2 0 108504 0 0
+/font/fontawesome-webfont.woff
+0 2 0 167520 0 0
+/font/Gotham-Black.ttf
+0 2 0 69052 0 0
+/images/main.jpg
+0 2 0 36308 0 0
+/
+0 5 0 30035 5 0
+/images/trb.png
+0 1 0 2951 0 0
+/Registro/logo/logoconalY.png
+0 1 849 10312 0 0
+/images/cc.png
+0 2 0 118814 0 0
+/images/conalC.png
+0 2 0 21068 0 0
+/images/back2.jpg
+0 1 0 77056 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-42-045.static.guate.net.gt
+0 2 0 0 0 0
+-
+google-proxy-66-102-7-187.google.com
+0 1 1 6007 1 1425390386
+/
+189.167.44.0
+0 1 1 6007 1 1425332450
+/
+66.220.156.112
+0 1 0 11812 0 0
+-
+66.220.156.119
+0 2 0 23624 0 0
+-
+66.220.156.117
+0 1 0 11812 0 0
+-
+66.220.156.118
+0 1 0 11812 0 0
+-
+173.252.120.114
+0 1 1 54252 0 0
+-
+portal20.up.edu.mx
+0 14 12 244761 1 1425317205
+/
+google-proxy-66-102-7-180.google.com
+0 2 2 10431 1 1425288450
+/
+168.234.54.29
+0 3 0 0 0 0
+-
+66.220.156.113
+0 1 0 11812 0 0
+-
+66.220.156.116
+0 1 1 10312 0 0
+-
+201.141.133.40
+0 25 23 575169 1 1425254786
+/
+google-proxy-66-102-7-194.google.com
+0 1 1 4424 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+google-proxy-66-102-7-187.google.com
+0 1 1 6007 1 1425390386
+/
+66.220.156.112
+0 1 0 11812 0 0
+-
+66.220.156.117
+0 1 0 11812 0 0
+-
+66.220.156.118
+0 1 0 11812 0 0
+-
+google-proxy-66-102-7-180.google.com
+0 1 1 4424 0 0
+-
+66.220.156.113
+0 1 0 11812 0 0
+-
+66.220.156.116
+0 1 1 10312 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://conal.aiesec.org.mx/
+0 28
+- (Direct Request)
+0 21
+http://conal.aiesec.org.mx/css/style.css
+0 7
+http://conal.aiesec.org.mx/css/font-awesome.min.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+0 1
+Mozilla/4.0 (compatible;)
+0 5
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+0 14
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
